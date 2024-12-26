@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Task-1-1845.executor": "Run",
+    "Python.Task-1-4581.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.python.exe.executor": "Run",
@@ -53,7 +54,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Program Files/Python313/python.exe",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
