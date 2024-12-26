@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="решила 8 задание">
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-14-19246.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task-1-1845.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
