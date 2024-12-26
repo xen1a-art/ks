@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="решила 8 задание">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="1 тип">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +48,39 @@
     "Python.Task-1-1845.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
+    "Python.python.exe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Program Files/Python313/python.exe",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="python.exe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ks" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (ks)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Program Files/Python313/python.exe" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,12 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734967926208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1 тип">
+      <option name="closed" value="true" />
+      <created>1735225681791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735225681791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="решила 8 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="решила 8 задание" />
+    <MESSAGE value="1 тип" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 тип" />
   </component>
 </project>
