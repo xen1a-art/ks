@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="1 тип">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; 672" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
     "Python.Task-1-4581.executor": "Run",
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
+    "Python.Task-14-19406.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.python.exe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -123,13 +122,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735225681791</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ответ; 672">
+      <option name="closed" value="true" />
+      <created>1736174257692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736174257692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="решила 8 задание" />
     <MESSAGE value="1 тип" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 тип" />
+    <MESSAGE value="ответ; 672" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ; 672" />
   </component>
 </project>
