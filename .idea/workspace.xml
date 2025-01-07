@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736261156094</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ответ;">
+      <option name="closed" value="true" />
+      <created>1736261507464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736261507464</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ответ;">
+      <option name="closed" value="true" />
+      <created>1736261643008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736261643008</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
