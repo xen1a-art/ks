@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; zyxw" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; 672" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,6 @@
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
-    "Python.Task-2.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.python.exe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -131,39 +130,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736174257692</updated>
     </task>
-    <task id="LOCAL-00005" summary="ответ; 672">
-      <option name="closed" value="true" />
-      <created>1736179239423</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736179239423</updated>
-    </task>
-    <task id="LOCAL-00006" summary="ответ; 46926015711">
-      <option name="closed" value="true" />
-      <created>1736179450492</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1736179450492</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ответ; 46926015711">
-      <option name="closed" value="true" />
-      <created>1736179459333</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1736179459333</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ответ; zyxw">
-      <option name="closed" value="true" />
-      <created>1736328455813</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1736328455813</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,8 +138,6 @@
     <MESSAGE value="решила 8 задание" />
     <MESSAGE value="1 тип" />
     <MESSAGE value="ответ; 672" />
-    <MESSAGE value="ответ; 46926015711" />
-    <MESSAGE value="ответ; zyxw" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ; zyxw" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ; 672" />
   </component>
 </project>
