@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: wzyx">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: z x y w" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736779885760</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ответ: z x y w">
+      <option name="closed" value="true" />
+      <created>1736782345356</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736782345356</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +246,7 @@
     <MESSAGE value="ответ; 739259957" />
     <MESSAGE value="ответ: cdba" />
     <MESSAGE value="ответ: wzyx" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: wzyx" />
+    <MESSAGE value="ответ: z x y w" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: z x y w" />
   </component>
 </project>
