@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: cdba">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: wzyx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-01-25/Task-2-1846.py" beforeDir="false" afterPath="$PROJECT_DIR$/13-01-25/Task-2-1846.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,8 @@
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-14.executor": "Run",
     "Python.Task-2-1846.executor": "Run",
+    "Python.Task-2-4582.executor": "Run",
+    "Python.Task-2-4607.executor": "Run",
     "Python.Task-5.executor": "Run",
     "Python.Task-6.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
@@ -209,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736778985837</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ответ: cdba">
+      <option name="closed" value="true" />
+      <created>1736779332863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736779332863</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ответ: wzyx">
+      <option name="closed" value="true" />
+      <created>1736779885760</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736779885760</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +239,7 @@
     <MESSAGE value="ответ; 9" />
     <MESSAGE value="ответ; 739259957" />
     <MESSAGE value="ответ: cdba" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: cdba" />
+    <MESSAGE value="ответ: wzyx" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: wzyx" />
   </component>
 </project>
