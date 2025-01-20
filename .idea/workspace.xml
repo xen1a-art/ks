@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; 216">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; 37">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-2-4459.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
     "Python.Task-6-19238.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
@@ -190,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736263282089</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ответ; 37">
+      <option name="closed" value="true" />
+      <created>1736278676303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736278676303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ответ; 37">
+      <option name="closed" value="true" />
+      <created>1736278735088</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736278735088</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,6 +216,7 @@
     <MESSAGE value="ответ; 672" />
     <MESSAGE value="ответ;" />
     <MESSAGE value="ответ; 216" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ; 216" />
+    <MESSAGE value="ответ; 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ; 37" />
   </component>
 </project>
