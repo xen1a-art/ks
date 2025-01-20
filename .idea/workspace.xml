@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; zyxw" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ; 74" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +49,7 @@
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-15-4595.executor": "Run",
     "Python.Task-2-4459.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
     "Python.Task-6-19238.executor": "Run",
@@ -220,7 +221,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737384489739</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ответ; 74">
+      <option name="closed" value="true" />
+      <created>1737386730684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737386730684</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ответ; 74">
+      <option name="closed" value="true" />
+      <created>1737386747700</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737386747700</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,6 +249,7 @@
     <MESSAGE value="ответ; 216" />
     <MESSAGE value="ответ; 37" />
     <MESSAGE value="ответ; zyxw" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ; zyxw" />
+    <MESSAGE value="ответ; 74" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ; 74" />
   </component>
 </project>
