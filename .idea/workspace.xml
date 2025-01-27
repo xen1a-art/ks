@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 390" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 308">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +67,7 @@
     "Python.Task-2-9733.executor": "Run",
     "Python.Task-2-9771.executor": "Run",
     "Python.Task-5.executor": "Run",
+    "Python.Task-6-14173.executor": "Run",
     "Python.Task-6.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.Task-8.executor": "Run",
@@ -307,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737988575265</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ответ: 308">
+      <option name="closed" value="true" />
+      <created>1737988926102</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737988926102</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -328,6 +339,7 @@
     <MESSAGE value="ответ: u y w z x" />
     <MESSAGE value="ответ:" />
     <MESSAGE value="ответ: 390" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 390" />
+    <MESSAGE value="ответ: 308" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 308" />
   </component>
 </project>
