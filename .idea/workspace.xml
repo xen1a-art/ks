@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: u y w z x" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 22229">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2qcYKxOreTI7jg3xgG5Fl8UQTmz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,10 +50,12 @@
     "Python.Task-1-1845.executor": "Run",
     "Python.Task-1-4581.executor": "Run",
     "Python.Task-12.executor": "Run",
+    "Python.Task-122.executor": "Run",
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-14.executor": "Run",
+    "Python.Task-15-14330.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
     "Python.Task-2-13797.executor": "Run",
@@ -60,6 +66,7 @@
     "Python.Task-2-7667.executor": "Run",
     "Python.Task-2-9733.executor": "Run",
     "Python.Task-2-9771.executor": "Run",
+    "Python.Task-5-10657.executor": "Run",
     "Python.Task-5.executor": "Run",
     "Python.Task-6.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
@@ -68,10 +75,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Program Files/Python313/python.exe",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/22-01-25",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\22-01-25" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Task-6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ks" />
@@ -287,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737042303492</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ответ: 22229">
+      <option name="closed" value="true" />
+      <created>1738086968350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1738086968350</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ответ: 22229">
+      <option name="closed" value="true" />
+      <created>1738086983347</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1738086983347</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +334,8 @@
     <MESSAGE value="ответ: cdba" />
     <MESSAGE value="ответ: ywxz" />
     <MESSAGE value="ответ: u y w z x" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: u y w z x" />
+    <MESSAGE value="ответ: 43" />
+    <MESSAGE value="ответ: 22229" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 22229" />
   </component>
 </project>
