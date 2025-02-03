@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 11">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Python.Task-15-1013.executor": "Run",
     "Python.Task-15-1320.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
+    "Python.Task-15-19247.executor": "Run",
     "Python.Task-15-746.executor": "Run",
     "Python.Task-15-747.executor": "Run",
     "Python.Task-15-753.executor": "Run",
@@ -380,11 +381,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738598366823</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ответ:">
+      <option name="closed" value="true" />
+      <created>1738601558554</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738601558554</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ответ:20">
+      <option name="closed" value="true" />
+      <created>1738601799367</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1738601799367</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="start" />
     <MESSAGE value="решила 8 задание" />
     <MESSAGE value="1 тип" />
     <MESSAGE value="ответ; 672" />
@@ -408,6 +424,8 @@
     <MESSAGE value="ответ: 10" />
     <MESSAGE value="ответ: 8.9" />
     <MESSAGE value="ответ: 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 11" />
+    <MESSAGE value="ответ:" />
+    <MESSAGE value="ответ:20" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:20" />
   </component>
 </project>
