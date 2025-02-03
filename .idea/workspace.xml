@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 138">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: -13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-01-25/Task-5-14330.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-01-25/Task-122.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-01-25/Task-12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +30,12 @@
     &quot;assignee&quot;: &quot;xen1a-art&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/xen1a-art/ks.git&quot;,
-    &quot;accountId&quot;: &quot;79591d0f-1816-43cd-bd19-1f5c1faad6b5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xen1a-art/ks.git",
+    "accountId": "3fa47731-b5e0-4ad2-a1f7-e3c9360e5197"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -56,6 +58,7 @@
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-14.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
+    "Python.Task-15-746.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -67,10 +70,12 @@
     "Python.Task-2-7667.executor": "Run",
     "Python.Task-2-9733.executor": "Run",
     "Python.Task-2-9771.executor": "Run",
+    "Python.Task-2.executor": "Run",
     "Python.Task-5-10657.executor": "Run",
     "Python.Task-5-14330.executor": "Run",
     "Python.Task-5.executor": "Run",
     "Python.Task-6.executor": "Run",
+    "Python.Task-8-18976.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
@@ -136,7 +141,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -333,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738101489251</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ответ: -13">
+      <option name="closed" value="true" />
+      <created>1738102872864</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738102872864</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,6 +369,7 @@
     <MESSAGE value="ответ: 22229" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 138" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 138" />
+    <MESSAGE value="ответ: -13" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: -13" />
   </component>
 </project>
