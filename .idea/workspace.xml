@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 138">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 351">
+      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,7 @@
     "Python.Task-14.executor": "Run",
     "Python.Task-15-11665.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
+    "Python.Task-15-4770.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -334,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738101489251</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ответ: 351">
+      <option name="closed" value="true" />
+      <created>1738851796084</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738851796084</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -357,6 +368,7 @@
     <MESSAGE value="ответ: 22229" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 138" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 138" />
+    <MESSAGE value="ответ: 351" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 351" />
   </component>
 </project>
