@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="gitignore">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,10 @@
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-14.executor": "Run",
     "Python.Task-15-11665.executor": "Run",
+    "Python.Task-15-1198.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
+    "Python.Task-15-2861.executor": "Run",
+    "Python.Task-15-3736.executor": "Run",
     "Python.Task-15-4770.executor": "Run",
     "Python.Task-15-748.executor": "Run",
     "Python.Task-15.executor": "Run",
@@ -360,7 +363,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738853242989</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ответ: 25">
+      <option name="closed" value="true" />
+      <created>1738853896214</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738853896214</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ответ: 36">
+      <option name="closed" value="true" />
+      <created>1738854448497</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738854448497</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ответ: 23">
+      <option name="closed" value="true" />
+      <created>1738855220812</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738855220812</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -386,6 +413,9 @@
     <MESSAGE value="ответ: 351" />
     <MESSAGE value="ответ: 30" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="ответ: 25" />
+    <MESSAGE value="ответ: 36" />
+    <MESSAGE value="ответ: 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 23" />
   </component>
 </project>
