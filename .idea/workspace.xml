@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 138">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;xen1a-art&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xen1a-art/ks.git",
-    "accountId": "3fa47731-b5e0-4ad2-a1f7-e3c9360e5197"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xen1a-art/ks.git&quot;,
+    &quot;accountId&quot;: &quot;79591d0f-1816-43cd-bd19-1f5c1faad6b5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,14 +55,8 @@
     "Python.Task-14-19246.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-14.executor": "Run",
-    "Python.Task-15-1013.executor": "Run",
-    "Python.Task-15-1320.executor": "Run",
+    "Python.Task-15-11665.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
-    "Python.Task-15-18266.executor": "Run",
-    "Python.Task-15-19247.executor": "Run",
-    "Python.Task-15-746.executor": "Run",
-    "Python.Task-15-747.executor": "Run",
-    "Python.Task-15-753.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -74,12 +68,10 @@
     "Python.Task-2-7667.executor": "Run",
     "Python.Task-2-9733.executor": "Run",
     "Python.Task-2-9771.executor": "Run",
-    "Python.Task-2.executor": "Run",
     "Python.Task-5-10657.executor": "Run",
     "Python.Task-5-14330.executor": "Run",
     "Python.Task-5.executor": "Run",
     "Python.Task-6.executor": "Run",
-    "Python.Task-8-18976.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
@@ -145,7 +137,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -342,74 +334,12 @@
       <option name="project" value="LOCAL" />
       <updated>1738101489251</updated>
     </task>
-    <task id="LOCAL-00024" summary="ответ: -13">
-      <option name="closed" value="true" />
-      <created>1738102872864</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1738102872864</updated>
-    </task>
-    <task id="LOCAL-00025" summary="ответ: 23">
-      <option name="closed" value="true" />
-      <created>1738595212467</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1738595212467</updated>
-    </task>
-    <task id="LOCAL-00026" summary="ответ: 10">
-      <option name="closed" value="true" />
-      <created>1738596417382</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1738596417382</updated>
-    </task>
-    <task id="LOCAL-00027" summary="ответ: 8.9">
-      <option name="closed" value="true" />
-      <created>1738597211273</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1738597211273</updated>
-    </task>
-    <task id="LOCAL-00028" summary="ответ: 11">
-      <option name="closed" value="true" />
-      <created>1738598366823</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1738598366823</updated>
-    </task>
-    <task id="LOCAL-00029" summary="ответ:">
-      <option name="closed" value="true" />
-      <created>1738601558554</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1738601558554</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ответ:20">
-      <option name="closed" value="true" />
-      <created>1738601799367</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1738601799367</updated>
-    </task>
-    <task id="LOCAL-00031" summary="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то">
-      <option name="closed" value="true" />
-      <created>1738605045018</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1738605045018</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="решила 8 задание" />
     <MESSAGE value="1 тип" />
     <MESSAGE value="ответ; 672" />
     <MESSAGE value="ответ; 170" />
@@ -427,14 +357,6 @@
     <MESSAGE value="ответ: 22229" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 138" />
-    <MESSAGE value="ответ: -13" />
-    <MESSAGE value="ответ: 23" />
-    <MESSAGE value="ответ: 10" />
-    <MESSAGE value="ответ: 8.9" />
-    <MESSAGE value="ответ: 11" />
-    <MESSAGE value="ответ:" />
-    <MESSAGE value="ответ:20" />
-    <MESSAGE value="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то" />
-    <option name="LAST_COMMIT_MESSAGE" value="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 138" />
   </component>
 </project>
