@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 10" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 47">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +62,13 @@
     "Python.Task-15-18266.executor": "Run",
     "Python.Task-15-18595.executor": "Run",
     "Python.Task-15-19247.executor": "Run",
+    "Python.Task-15-4327.executor": "Run",
     "Python.Task-15-746.executor": "Run",
     "Python.Task-15-747.executor": "Run",
     "Python.Task-15-753.executor": "Run",
     "Python.Task-15-7846.executor": "Run",
+    "Python.Task-15-8677.executor": "Run",
+    "Python.Task-15-86777.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -431,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739188230181</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ответ: 47">
+      <option name="closed" value="true" />
+      <created>1739188626612</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739188626613</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ; 170" />
     <MESSAGE value="ответ; 46656" />
     <MESSAGE value="ответ; 9" />
     <MESSAGE value="ответ; 739259957" />
@@ -460,6 +472,7 @@
     <MESSAGE value="ответ: 52 (да здравствует Санкт-Петербург, и это город наш)" />
     <MESSAGE value="ответ: 48" />
     <MESSAGE value="ответ: 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 10" />
+    <MESSAGE value="ответ: 47" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 47" />
   </component>
 </project>
