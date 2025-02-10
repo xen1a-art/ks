@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 52 (да здравствует Санкт-Петербург, и это город наш)" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 48" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +63,7 @@
     "Python.Task-15-746.executor": "Run",
     "Python.Task-15-747.executor": "Run",
     "Python.Task-15-753.executor": "Run",
+    "Python.Task-15-7846.executor": "Run",
     "Python.Task-15.executor": "Run",
     "Python.Task-2-13077.executor": "Run",
     "Python.Task-2-13089.executor": "Run",
@@ -414,11 +415,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739187198167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ответ: 48">
+      <option name="closed" value="true" />
+      <created>1739187681598</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1739187681598</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ; 672" />
     <MESSAGE value="ответ; 170" />
     <MESSAGE value="ответ; 46656" />
     <MESSAGE value="ответ; 9" />
@@ -443,6 +451,7 @@
     <MESSAGE value="ответ:20" />
     <MESSAGE value="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то" />
     <MESSAGE value="ответ: 52 (да здравствует Санкт-Петербург, и это город наш)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 52 (да здравствует Санкт-Петербург, и это город наш)" />
+    <MESSAGE value="ответ: 48" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 48" />
   </component>
 </project>
