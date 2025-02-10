@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 47">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-86777.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-02-25/Task-15-8677.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,7 @@
     "Python.Task-15-18595.executor": "Run",
     "Python.Task-15-19247.executor": "Run",
     "Python.Task-15-4327.executor": "Run",
+    "Python.Task-15-5437.executor": "Run",
     "Python.Task-15-746.executor": "Run",
     "Python.Task-15-747.executor": "Run",
     "Python.Task-15-753.executor": "Run",
@@ -99,6 +101,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\22-01-25" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\10-02-25" />
     </key>
   </component>
   <component name="RunManager">
@@ -444,12 +449,26 @@
       <option name="project" value="LOCAL" />
       <updated>1739188626613</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ответ: 46 получилось, но это не правильно...">
+      <option name="closed" value="true" />
+      <created>1739192995132</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739192995132</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ответ: 1">
+      <option name="closed" value="true" />
+      <created>1739193501063</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1739193501063</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ; 46656" />
-    <MESSAGE value="ответ; 9" />
     <MESSAGE value="ответ; 739259957" />
     <MESSAGE value="ответ: z x y w" />
     <MESSAGE value="ответ: y x w z" />
@@ -473,6 +492,8 @@
     <MESSAGE value="ответ: 48" />
     <MESSAGE value="ответ: 10" />
     <MESSAGE value="ответ: 47" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 47" />
+    <MESSAGE value="ответ: 46 получилось, но это не правильно..." />
+    <MESSAGE value="ответ: 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 1" />
   </component>
 </project>
