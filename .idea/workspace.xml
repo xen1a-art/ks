@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 23">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: wzyx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Python.Task-5-10657.executor": "Run",
     "Python.Task-5-14330.executor": "Run",
     "Python.Task-5.executor": "Run",
+    "Python.Task-6-17519.executor": "Run",
     "Python.Task-6.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
     "Python.Task-8.executor": "Run",
@@ -388,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738855220812</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ответ: wzyx">
+      <option name="closed" value="true" />
+      <created>1739457320329</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739457320329</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -403,7 +412,6 @@
     <MESSAGE value="ответ: z x y w" />
     <MESSAGE value="ответ: y x w z" />
     <MESSAGE value="ответ: w x y z" />
-    <MESSAGE value="ответ: wzyx" />
     <MESSAGE value="ответ: cdba" />
     <MESSAGE value="ответ: ywxz" />
     <MESSAGE value="ответ: u y w z x" />
@@ -417,6 +425,7 @@
     <MESSAGE value="ответ: 25" />
     <MESSAGE value="ответ: 36" />
     <MESSAGE value="ответ: 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 23" />
+    <MESSAGE value="ответ: wzyx" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: wzyx" />
   </component>
 </project>
