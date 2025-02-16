@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="text" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 180 190360573">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,7 @@
     "Python.Task-15-1320.executor": "Run",
     "Python.Task-15-14330.executor": "Run",
     "Python.Task-15-16833.executor": "Run",
+    "Python.Task-15-18175.executor": "Run",
     "Python.Task-15-18266.executor": "Run",
     "Python.Task-15-18595.executor": "Run",
     "Python.Task-15-19247.executor": "Run",
@@ -100,12 +103,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/22-01-25",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/10-02-25dz",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\10-02-25dz" />
       <recent name="C:\Users\User\PycharmProjects\ks\22-01-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -535,11 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739708717722</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="ответ: 180 190360573">
+      <option name="closed" value="true" />
+      <created>1739709870021</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1739709870021</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 43" />
     <MESSAGE value="ответ: 22229" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 138" />
@@ -564,6 +575,7 @@
     <MESSAGE value="ответ: 92 838850571" />
     <MESSAGE value="ответ: 1214 176024" />
     <MESSAGE value="text" />
-    <option name="LAST_COMMIT_MESSAGE" value="text" />
+    <MESSAGE value="ответ: 180 190360573" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 180 190360573" />
   </component>
 </project>
