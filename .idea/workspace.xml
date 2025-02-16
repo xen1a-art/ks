@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 52" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 20">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +96,8 @@
     "Python.Task-6.executor": "Run",
     "Python.Task-8-18976.executor": "Run",
     "Python.Task-8-19240.executor": "Run",
+    "Python.Task-8-19753.executor": "Run",
+    "Python.Task-8-197533.executor": "Run",
     "Python.Task-8-5300.executor": "Run",
     "Python.Task-8-5553.executor": "Run",
     "Python.Task-8.executor": "Run",
@@ -553,11 +557,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739710425156</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="ответ: 20">
+      <option name="closed" value="true" />
+      <created>1739710994049</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1739710994049</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 138" />
     <MESSAGE value="ответ: -13" />
     <MESSAGE value="ответ: 23" />
@@ -582,6 +593,7 @@
     <MESSAGE value="text" />
     <MESSAGE value="ответ: 180 190360573" />
     <MESSAGE value="ответ: 52" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 52" />
+    <MESSAGE value="ответ: 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 20" />
   </component>
 </project>
