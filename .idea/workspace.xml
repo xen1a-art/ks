@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 1800">
-      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 92 838850571">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +71,7 @@
     "Python.Task-15-8677.executor": "Run",
     "Python.Task-15-86777.executor": "Run",
     "Python.Task-15.executor": "Run",
+    "Python.Task-17-17873.executor": "Run",
     "Python.Task-17-19249s.executor": "Run",
     "Python.Task-17-4597.executor": "Run",
     "Python.Task-17-4622.executor": "Run",
@@ -513,11 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739207156679</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="ответ: 92 838850571">
+      <option name="closed" value="true" />
+      <created>1739707503497</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1739707503497</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: cdba" />
     <MESSAGE value="ответ: ywxz" />
     <MESSAGE value="ответ: u y w z x" />
     <MESSAGE value="ответ: 43" />
@@ -542,6 +548,7 @@
     <MESSAGE value="ответ: 299 196183" />
     <MESSAGE value="ответ: 6315 84523" />
     <MESSAGE value="ответ: 1800" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 1800" />
+    <MESSAGE value="ответ: 92 838850571" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 92 838850571" />
   </component>
 </project>
