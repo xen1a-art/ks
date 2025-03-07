@@ -1,7 +1,7 @@
 from itertools import product
 
 ans = []
-for i in product('0123456789', repeat = 3):
+for i in product('0123456789', repeat = 4):
     i = ''.join(i)
     for v in '0123456789':
         num = int('12' + i + '567' + v)
