@@ -4,163 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;xzy">
-      <change afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/17_9786.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;405">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-15-1013.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-1013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-15-1320.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-1320.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-15-746.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-746.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-15-747.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-747.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-15-753.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-02-25/Task-8-18976.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-8-18976.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-16833.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-16833.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-18595.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-18595.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-4327.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-4327.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-5437.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-5437.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-7846.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-7846.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-15-8677.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-15-8677.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-8-5300.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-8-5300.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-02-25/Task-8-5553.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/04-02-25(8-15)/Task-8-5553.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-01-25/Task-14-12246.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-01-25(14)/Task-14-12246.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-01-25/Task-14-19406.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-01-25(14)/Task-14-19406.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-11665.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-11665.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-1198.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-1198.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-2861.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-2861.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-3736.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-3736.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-4278.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-4278.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-4770.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-4770.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-02-25/Task-15-748.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-02-25(15)/Task-15-748.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/17_4597.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/17_4597.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/17_4622.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/17_4622.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/17_9748.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/17_9748.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/Task-17-4597.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/Task-17-4597.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/Task-17-4622.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/Task-17-4622.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/Task-17-9748.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/Task-17-9748.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25/Task-17-9786.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-02-25(17)/Task-17-9786.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/17_17873.txt" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/17_17873.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/17_19249.txt" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/17_19249.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/17_4705.txt" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/17_4705.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-15-1320.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-15-1320.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-15-18175.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-15-18175.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-17-17873.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-17-17873.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-17-19249s.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-17-19249s.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-17-4705.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-17-4705.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-5-19237.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-8-1927.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-8-1927.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-02-25dz/Task-8-19753.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-02-25(5-8-15-17)/Task-8-19753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-01-25/Task-2-1846.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-01-25(2)/Task-2-1846.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-01-25/Task-2-4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-01-25(2)/Task-2-4582.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-01-25/Task-2-4607.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-01-25(2)/Task-2-4607.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-01-25/Task-2-9733.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-01-25(2)/Task-2-9733.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-02-25/Task-2-1528.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-02-25(2-6-8)/Task-2-1528.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-02-25/Task-6-17519.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-02-25(2-6-8)/Task-6-17519.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-02-25/Task-8-6985.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-02-25(2-6-8)/Task-8-6985.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-17621.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/14-01-25(2-8)/Task-2-17621.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-17665.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/14-01-25(2-8)/Task-2-17665.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-18576.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/14-01-25(2-8)/Task-2-18576.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-2-19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/14-01-25(2-8)/Task-2-19234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-01-25/Task-8-11292.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/14-01-25(2-8)/Task-8-11292.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-13077.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-13077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-13089.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-13089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-13797.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-13797.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-14390.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-14390.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-7667.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-7667.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-01-25/Task-2-9771.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/16-01-25/Task-2-9771.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-01-25/Task-2-454.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/17-01-25(2)/Task-2-454.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-01-25/Task-2-78.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/17-01-25(2)/Task-2-78.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-01-25/Task-2-816.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/17-01-25(2)/Task-2-816.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-01-25/Task-2-960.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/17-01-25(2)/Task-2-960.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-01-25/Task-15-1859.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-01-25(2-15)/Task-15-1859.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-01-25/Task-15-4595.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-01-25(2-15)/Task-15-4595.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-01-25/Task-2-4459.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-01-25(2-15)/Task-2-4459.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-01-25/Task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/22-01-25(2-5-6-8-12-14-15)/Task-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-15-11837.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-15-11837.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-15-11845.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-15-11845.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-15-12247.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-15-12247.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-15-14350.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-15-14350.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-15-9784.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-15-9784.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-01-25/Task-8-17798.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/23-01-25(8-15)/Task-8-17798.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-01-25/Task-15-8676.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-01-25(6-15)/Task-15-8676.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-01-25/Task-15-9545.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-01-25(6-15)/Task-15-9545.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-01-25/Task-6-14173.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-01-25(6-15)/Task-6-14173.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28-01-25/Task-15-18266.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/28-01-25(15)/Task-15-18266.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28-01-25/Task-15-19247.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/28-01-25(15)/Task-15-19247.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-12-16443reshyege.py" beforeDir="false" afterPath="$PROJECT_DIR$/Вне занятия/task-12-16443reshyege.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Вне занятия/task-2-14688-ege.py" beforeDir="false" afterPath="$PROJECT_DIR$/Вне занятия/task-2-14688-ege.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-1-1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/26-12-24/Task-1-1845.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-12-19244.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/26-12-24/Task-12-19244.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-15-19247.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/26-12-24/Task-15-19247.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/26-12-24/Task-6-19238.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/26-12-24/Task=-2-19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/26-12-24/Task=-2-19234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-14-19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/Task-14-19246.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/Task-5-19237.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-8-19240.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/ЕГКР 21-12-24/Task-8-19240.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-25.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25(2)/Task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/13-02-25/Task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/13-02-25(полный вар)/Task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/20-02-25(25)/Task-25-12255.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/20-02-25(25)/Task-25-12255(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-17-14260.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-17-14260.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-17-18617.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-17-18617.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-25-2716.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-25-2716.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-25-2943.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-25-2943.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-25-3025.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-25-3025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/27-02-25/Task-25-8696.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/27-02-25(17-25)/Task-25-8696.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-17529.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-17529.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-17557.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-17557.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-1860.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-1860.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-4596.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-4596.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-4621.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-4621.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-9747.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-9747.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-9785.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-9785.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-16-9839.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-16-9839.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-03-25/Task-5-19872.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-03-25(5-16)/Task-5-19872.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/06-03-25/Task-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-03-25(2-5-16)/Task-16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/06-03-25/Task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-03-25(2-5-16)/Task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/06-03-25/Task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-03-25(2-5-16)/Task-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-15-16833.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-15-16833.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-23-4601.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-23-4601.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-23-4626.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-23-4626.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-23-9790.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-23-9790.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-23-9844.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-23-9844.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/10-03-25/Task-5-7607.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/10-03-25(5-15-23)/Task-5-7607.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-02-25/Task-15-16833.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-02-25(6-8-15-25)/Task-15-16833.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-02-25/Task-25-4603(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-02-25(6-8-15-25)/Task-25-4603(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-02-25/Task-25-4603(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-02-25(6-8-15-25)/Task-25-4603(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-02-25/Task-6-6013.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-02-25(6-8-15-25)/Task-6-6013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-02-25/Task-8-9994.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-02-25(6-8-15-25)/Task-8-9994.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/20-02-25/Task-2-18870.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-02-25(2-25)/Task-2-18870.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/20-02-25/Task-25-11814(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-02-25(2-25)/Task-25-11814(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/20-02-25/Task-25-11814.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-02-25(2-25)/Task-25-11814(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/20-02-25/Task-25-11955(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-02-25(2-25)/Task-25-11955(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/20-02-25/Task-25-18591.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/20-02-25(2-25)/Task-25-18591.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/24-02-25/Takk-25-1867.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/24-02-25(5-17-25)/Takk-25-1867.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/24-02-25/Task-25-17536.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/24-02-25(5-17-25)/Task-25-17536.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/24-02-25/Task-25-3585.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/24-02-25(5-17-25)/Task-25-3585.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/24-02-25/Task-5-15317.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/24-02-25(5-17-25)/Task-5-15317.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-02-25/Task-2-2205.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-02-25(2-25)/Task-2-2205.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-02-25/Task-25-19755.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-02-25(2-25)/Task-25-19755.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-02-25/Task-25-5477.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-02-25(2-25)/Task-25-5477.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробник/Task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/Task-8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,8 +135,24 @@
     "Python.Task-8-5553.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
+    "Python.task-14-19484.executor": "Run",
+    "Python.task-14-19705.executor": "Run",
+    "Python.task-14-19880.executor": "Run",
+    "Python.task-14-20193.executor": "Run",
+    "Python.task-14-20904.executor": "Run",
     "Python.task-2-14688-ege.executor": "Run",
     "Python.task-2-15097-ege.executor": "Run",
+    "Python.task-2-15124-ege.executor": "Run",
+    "Python.task-2-15787-ege.executor": "Run",
+    "Python.task-5-64935.executor": "Run",
+    "Python.task-5-73860-ege.executor": "Run",
+    "Python.task-6-47210-ege.executor": "Run",
+    "Python.task-8-3193-ege.executor": "Run",
+    "Python.task-8-58235-ege.executor": "Run",
+    "Python.task-8-58237-ege.executor": "Run",
+    "Python.task-8-59713-ege.executor": "Run",
+    "Python.task-8-7667-ege.executor": "Run",
+    "Python.task-8-8098-ege.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -371,126 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ответ:20">
-      <option name="closed" value="true" />
-      <created>1738601799367</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1738601799367</updated>
-    </task>
-    <task id="LOCAL-00031" summary="мой ответ : 57(p.s. это неправильно)&#10;не знаю что не так, уже проверела всё: как перепечатала пример, попробовала поменять диапазоны и тд..всё равно не то">
-      <option name="closed" value="true" />
-      <created>1738605045018</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1738605045018</updated>
-    </task>
-    <task id="LOCAL-00032" summary="ответ: 52 (да здравствует Санкт-Петербург, и это город наш)">
-      <option name="closed" value="true" />
-      <created>1739187198167</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1739187198167</updated>
-    </task>
-    <task id="LOCAL-00033" summary="ответ: 48">
-      <option name="closed" value="true" />
-      <created>1739187681598</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1739187681598</updated>
-    </task>
-    <task id="LOCAL-00034" summary="ответ: 10">
-      <option name="closed" value="true" />
-      <created>1739188230181</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1739188230181</updated>
-    </task>
-    <task id="LOCAL-00035" summary="ответ: 47">
-      <option name="closed" value="true" />
-      <created>1739188626612</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1739188626613</updated>
-    </task>
-    <task id="LOCAL-00036" summary="ответ: 46 получилось, но это не правильно...">
-      <option name="closed" value="true" />
-      <created>1739192995132</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1739192995132</updated>
-    </task>
-    <task id="LOCAL-00037" summary="ответ: 1">
-      <option name="closed" value="true" />
-      <created>1739193501063</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1739193501063</updated>
-    </task>
-    <task id="LOCAL-00038" summary="ответ: 175 173738">
-      <option name="closed" value="true" />
-      <created>1739198426527</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1739198426527</updated>
-    </task>
-    <task id="LOCAL-00039" summary="ответ: 4984 696">
-      <option name="closed" value="true" />
-      <created>1739199304227</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1739199304227</updated>
-    </task>
-    <task id="LOCAL-00040" summary="ответ: 299 196183">
-      <option name="closed" value="true" />
-      <created>1739201123518</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1739201123518</updated>
-    </task>
-    <task id="LOCAL-00041" summary="ответ: 6315 84523">
-      <option name="closed" value="true" />
-      <created>1739202792609</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1739202792609</updated>
-    </task>
-    <task id="LOCAL-00042" summary="ответ: 1800">
-      <option name="closed" value="true" />
-      <created>1739207156679</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1739207156679</updated>
-    </task>
-    <task id="LOCAL-00043" summary="ответ: 92 838850571">
-      <option name="closed" value="true" />
-      <created>1739707503497</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1739707503497</updated>
-    </task>
-    <task id="LOCAL-00044" summary="ответ: 1214 176024">
-      <option name="closed" value="true" />
-      <created>1739708647175</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1739708647175</updated>
     </task>
     <task id="LOCAL-00045" summary="text">
       <option name="closed" value="true" />
@@ -764,24 +505,130 @@
       <option name="project" value="LOCAL" />
       <updated>1742860321450</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="ответ:&#10;y z x">
+      <option name="closed" value="true" />
+      <created>1742860883887</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1742860883888</updated>
+    </task>
+    <task id="LOCAL-00080" summary="ответ:&#10;x z y">
+      <option name="closed" value="true" />
+      <created>1742861268300</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1742861268300</updated>
+    </task>
+    <task id="LOCAL-00081" summary="ответ:&#10;y w z x">
+      <option name="closed" value="true" />
+      <created>1742861753045</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1742861753045</updated>
+    </task>
+    <task id="LOCAL-00082" summary="ответ:&#10;3974639694">
+      <option name="closed" value="true" />
+      <created>1742866424987</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1742866424987</updated>
+    </task>
+    <task id="LOCAL-00083" summary="ответ:&#10;395">
+      <option name="closed" value="true" />
+      <created>1742867829722</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1742867829722</updated>
+    </task>
+    <task id="LOCAL-00084" summary="ответ:&#10;38">
+      <option name="closed" value="true" />
+      <created>1742868309557</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1742868309557</updated>
+    </task>
+    <task id="LOCAL-00085" summary="ответ:&#10;1823">
+      <option name="closed" value="true" />
+      <created>1742921874956</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1742921874956</updated>
+    </task>
+    <task id="LOCAL-00086" summary="ответ:&#10;9600497">
+      <option name="closed" value="true" />
+      <created>1742923185022</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1742923185022</updated>
+    </task>
+    <task id="LOCAL-00087" summary="ответ:&#10;18">
+      <option name="closed" value="true" />
+      <created>1742924142321</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1742924142321</updated>
+    </task>
+    <task id="LOCAL-00088" summary="ответ:&#10;2001">
+      <option name="closed" value="true" />
+      <created>1742924972958</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1742924972958</updated>
+    </task>
+    <task id="LOCAL-00089" summary="ответ:&#10;38">
+      <option name="closed" value="true" />
+      <created>1743068937471</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1743068937472</updated>
+    </task>
+    <task id="LOCAL-00090" summary="ответ:&#10;35">
+      <option name="closed" value="true" />
+      <created>1743069357883</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1743069357883</updated>
+    </task>
+    <task id="LOCAL-00091" summary="ответ:&#10;5616">
+      <option name="closed" value="true" />
+      <created>1743071771784</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1743071771784</updated>
+    </task>
+    <task id="LOCAL-00092" summary="ответ:&#10;162">
+      <option name="closed" value="true" />
+      <created>1743072061519</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1743072061519</updated>
+    </task>
+    <task id="LOCAL-00093" summary="ответ:&#10;405">
+      <option name="closed" value="true" />
+      <created>1743072335571</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1743072335571</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:6" />
-    <MESSAGE value="ответ: 55" />
-    <MESSAGE value="ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609" />
-    <MESSAGE value="ответ:&#10;200000003 48391&#10;200000004 42123&#10;200000005 5&#10;200000008 5101&#10;200000009 113443" />
-    <MESSAGE value="ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044" />
-    <MESSAGE value="ответ:&#10;w x y z" />
-    <MESSAGE value="ответ:&#10;1991" />
-    <MESSAGE value="ответ:&#10;76" />
-    <MESSAGE value="ответ:&#10;67476" />
-    <MESSAGE value="ответ:&#10;7" />
-    <MESSAGE value="ответ:&#10;2000" />
-    <MESSAGE value="ответ:&#10;1091880 1182870&#10;1116144 1209156&#10;1140408 1235442&#10;1164672 1261728&#10;1188936 1288014" />
-    <MESSAGE value="ответ:&#10;8 1958" />
-    <MESSAGE value="ответ:&#10;8094" />
     <MESSAGE value="ответ:&#10;757543052" />
     <MESSAGE value="ответ:&#10;1467 197700" />
     <MESSAGE value="ответ:&#10;500" />
@@ -793,6 +640,20 @@
     <MESSAGE value="ответ:&#10;301" />
     <MESSAGE value="ответ:&#10;16" />
     <MESSAGE value="ответ:&#10;xzy" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;xzy" />
+    <MESSAGE value="ответ:&#10;y z x" />
+    <MESSAGE value="ответ:&#10;x z y" />
+    <MESSAGE value="ответ:&#10;y w z x" />
+    <MESSAGE value="ответ:&#10;3974639694" />
+    <MESSAGE value="ответ:&#10;395" />
+    <MESSAGE value="ответ:&#10;1823" />
+    <MESSAGE value="ответ:&#10;9600497" />
+    <MESSAGE value="ответ:&#10;18" />
+    <MESSAGE value="ответ:&#10;2001" />
+    <MESSAGE value="ответ:&#10;38" />
+    <MESSAGE value="ответ:&#10;35" />
+    <MESSAGE value="ответ:&#10;5616" />
+    <MESSAGE value="ответ:&#10;162" />
+    <MESSAGE value="ответ:&#10;405" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;405" />
   </component>
 </project>
