@@ -4,8 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;405">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 97">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Вне занятия/task-2-15124-ege.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-18866.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-18866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-19248.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-19248.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-20196.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-20196.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-15-8503.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-15-8503.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-15-8596.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-15-8596.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-16-14339.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-16-14339.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-16-19709.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-16-19709.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-10104.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-10104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-17684.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-17684.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-4709.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-4709.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-19-20-21-17532.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-19-20-21-17532.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-19-20-21-436.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-19-20-21-436.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-8-17799.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-8-17799.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_4589 (1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_4589 (1).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_4614.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_4614.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_9740.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_9740.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-4589.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-4589.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-4614.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-4614.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-9740.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-9740.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-12-19483.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-12-19483.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-2-14651.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-2-14651.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-23-11240.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-23-11240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-23-13099.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-23-13099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-6-18131.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-6-18131.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/9_21408.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/9_21408.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-12-21411.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-12-21411.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-6-21405.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-6-21405.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-8-21407.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-8-21407.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-9-21408.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-9-21408.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-12-14372.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-12-14372.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-14-20490.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-14-20490.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-2-12671(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-2-12671(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-2-12671.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-2-12671.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-5-14328.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-5-14328.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-6-17625.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-6-17625.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-8-17862.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-8-17862.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/17_12735.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/Task-19-20-21-1863.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/Task-19-20-21-1863.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/task-12-10714.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/task-12-10714.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/task-5-18119.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/task-5-18119.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +88,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.14-16892.executor": "Run",
+    "Python.14-48390.executor": "Run",
+    "Python.14-48402.executor": "Run",
+    "Python.14-72599.executor": "Run",
+    "Python.15-18824.executor": "Run",
+    "Python.15-34519.executor": "Run",
+    "Python.15-34545.executor": "Run",
+    "Python.15-51984.executor": "Run",
+    "Python.16-5278.executor": "Run",
+    "Python.8(25840).executor": "Run",
+    "Python.8-10500.executor": "Run",
+    "Python.8-13737.executor": "Run",
     "Python.Task-1-1845.executor": "Run",
     "Python.Task-1-4581.executor": "Run",
     "Python.Task-12-14372.executor": "Run",
@@ -135,38 +188,76 @@
     "Python.Task-8-5553.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
+    "Python.task-11-73866-ege.executor": "Run",
+    "Python.task-12-21411.executor": "Run",
+    "Python.task-12-9365-ege.executor": "Run",
+    "Python.task-12-9764-ege.executor": "Run",
     "Python.task-14-19484.executor": "Run",
     "Python.task-14-19705.executor": "Run",
     "Python.task-14-19880.executor": "Run",
     "Python.task-14-20193.executor": "Run",
     "Python.task-14-20904.executor": "Run",
+    "Python.task-14-48392-ege.executor": "Run",
+    "Python.task-14-48393-ege.executor": "Run",
+    "Python.task-14-48394-ege.executor": "Run",
+    "Python.task-14-7761-ege.executor": "Run",
+    "Python.task-14-9367-ege.executor": "Run",
+    "Python.task-15-34506-ege.executor": "Run",
+    "Python.task-15-9804-ege.executor": "Run",
+    "Python.task-17-20963.executor": "Run",
+    "Python.task-17-21416.executor": "Run",
+    "Python.task-17-21595.executor": "Run",
+    "Python.task-19-20-21(18958).executor": "Run",
+    "Python.task-19-20-21(19251).executor": "Run",
+    "Python.task-19-20-21-21418.executor": "Run",
     "Python.task-2-14688-ege.executor": "Run",
     "Python.task-2-15097-ege.executor": "Run",
     "Python.task-2-15124-ege.executor": "Run",
     "Python.task-2-15787-ege.executor": "Run",
+    "Python.task-23-1137.executor": "Run",
+    "Python.task-23-13972.executor": "Run",
+    "Python.task-23-3374.executor": "Run",
+    "Python.task-23-5926.executor": "Run",
+    "Python.task-25-10725.executor": "Run",
+    "Python.task-25-14442.executor": "Run",
+    "Python.task-4614.executor": "Run",
     "Python.task-5-64935.executor": "Run",
     "Python.task-5-73860-ege.executor": "Run",
+    "Python.task-6-21405.executor": "Run",
     "Python.task-6-47210-ege.executor": "Run",
+    "Python.task-8-21407.executor": "Run",
     "Python.task-8-3193-ege.executor": "Run",
     "Python.task-8-58235-ege.executor": "Run",
     "Python.task-8-58237-ege.executor": "Run",
     "Python.task-8-59713-ege.executor": "Run",
     "Python.task-8-7667-ege.executor": "Run",
     "Python.task-8-8098-ege.executor": "Run",
+    "Python.task-8-9691-ege.executor": "Run",
+    "Python.task-9-21408.executor": "Run",
+    "Python.task-9-4589.executor": "Run",
+    "Python.task-9-9740.executor": "Run",
+    "Python.task-9-9778.executor": "Run",
+    "Python.task-9-9832.executor": "Run",
+    "Python.ккккк.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/дз/27-02-25",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
+      <recent name="C:\Users\User\PycharmProjects\ks\занятия\07-04-25" />
+      <recent name="C:\Users\User\PycharmProjects\ks\дз\14-03-25(23-25-17)" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\27-02-25" />
       <recent name="C:\Users\User\PycharmProjects\ks\10-02-25dz" />
-      <recent name="C:\Users\User\PycharmProjects\ks\22-01-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\занятия\14-04-25" />
+      <recent name="C:\Users\User\PycharmProjects\ks\занятия\10-04-25" />
+      <recent name="C:\Users\User\PycharmProjects\ks\занятия\07-04-25" />
       <recent name="C:\Users\User\PycharmProjects\ks\10-02-25" />
     </key>
   </component>
@@ -232,318 +323,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00045" summary="text">
-      <option name="closed" value="true" />
-      <created>1739708717722</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1739708717722</updated>
-    </task>
-    <task id="LOCAL-00046" summary="ответ: 180 190360573">
-      <option name="closed" value="true" />
-      <created>1739709870021</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1739709870021</updated>
-    </task>
-    <task id="LOCAL-00047" summary="ответ: 52">
-      <option name="closed" value="true" />
-      <created>1739710425156</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1739710425156</updated>
-    </task>
-    <task id="LOCAL-00048" summary="ответ: 20">
-      <option name="closed" value="true" />
-      <created>1739710994049</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1739710994049</updated>
-    </task>
-    <task id="LOCAL-00049" summary="ответ: 7440">
-      <option name="closed" value="true" />
-      <created>1739719960260</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1739719960260</updated>
-    </task>
-    <task id="LOCAL-00050" summary="ответ: 6860">
-      <option name="closed" value="true" />
-      <created>1739724075439</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1739724075440</updated>
-    </task>
-    <task id="LOCAL-00051" summary="ответ: xwyz">
-      <option name="closed" value="true" />
-      <created>1741877480013</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1741877480014</updated>
-    </task>
-    <task id="LOCAL-00052" summary="ответ: 44">
-      <option name="closed" value="true" />
-      <created>1741877501941</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1741877501941</updated>
-    </task>
-    <task id="LOCAL-00053" summary="ответ:681">
-      <option name="closed" value="true" />
-      <created>1741877553162</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1741877553162</updated>
-    </task>
-    <task id="LOCAL-00054" summary="ответ:6">
-      <option name="closed" value="true" />
-      <created>1741877661218</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1741877661218</updated>
-    </task>
-    <task id="LOCAL-00055" summary="ответ: 55">
-      <option name="closed" value="true" />
-      <created>1741878392564</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1741878392564</updated>
-    </task>
-    <task id="LOCAL-00056" summary="ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609">
-      <option name="closed" value="true" />
-      <created>1742138459726</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1742138459727</updated>
-    </task>
-    <task id="LOCAL-00057" summary="ответ:&#10;200000003 48391&#10;200000004 42123&#10;200000005 5&#10;200000008 5101&#10;200000009 113443">
-      <option name="closed" value="true" />
-      <created>1742138498879</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1742138498879</updated>
-    </task>
-    <task id="LOCAL-00058" summary="ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044">
-      <option name="closed" value="true" />
-      <created>1742138552484</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1742138552484</updated>
-    </task>
-    <task id="LOCAL-00059" summary="ответ:&#10;w x y z">
-      <option name="closed" value="true" />
-      <created>1742222305081</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1742222305082</updated>
-    </task>
-    <task id="LOCAL-00060" summary="ответ:&#10;1991">
-      <option name="closed" value="true" />
-      <created>1742222798225</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1742222798225</updated>
-    </task>
-    <task id="LOCAL-00061" summary="ответ:&#10;76">
-      <option name="closed" value="true" />
-      <created>1742223788920</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1742223788920</updated>
-    </task>
-    <task id="LOCAL-00062" summary="ответ:&#10;67476">
-      <option name="closed" value="true" />
-      <created>1742225139907</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1742225139907</updated>
-    </task>
-    <task id="LOCAL-00063" summary="ответ:&#10;7">
-      <option name="closed" value="true" />
-      <created>1742227730497</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1742227730497</updated>
-    </task>
-    <task id="LOCAL-00064" summary="ответ:&#10;2000">
-      <option name="closed" value="true" />
-      <created>1742232584720</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1742232584720</updated>
-    </task>
-    <task id="LOCAL-00065" summary="ответ:&#10;1091880 1182870&#10;1116144 1209156&#10;1140408 1235442&#10;1164672 1261728&#10;1188936 1288014">
-      <option name="closed" value="true" />
-      <created>1742238928894</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1742238928894</updated>
-    </task>
-    <task id="LOCAL-00066" summary="ответ:&#10;8 1958">
-      <option name="closed" value="true" />
-      <created>1742281340201</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1742281340202</updated>
-    </task>
-    <task id="LOCAL-00067" summary="ответ:&#10;8094">
-      <option name="closed" value="true" />
-      <created>1742282322890</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1742282322890</updated>
-    </task>
-    <task id="LOCAL-00068" summary="ответ:&#10;757543052">
-      <option name="closed" value="true" />
-      <created>1742307201942</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1742307201942</updated>
-    </task>
-    <task id="LOCAL-00069" summary="ответ:&#10;1467 197700">
-      <option name="closed" value="true" />
-      <created>1742308311878</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1742308311878</updated>
-    </task>
-    <task id="LOCAL-00070" summary="ответ:&#10;500">
-      <option name="closed" value="true" />
-      <created>1742308367816</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1742308367817</updated>
-    </task>
-    <task id="LOCAL-00071" summary="ответ:&#10;30">
-      <option name="closed" value="true" />
-      <created>1742397521666</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1742397521667</updated>
-    </task>
-    <task id="LOCAL-00072" summary="ответ:&#10;37">
-      <option name="closed" value="true" />
-      <created>1742398191653</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1742398191653</updated>
-    </task>
-    <task id="LOCAL-00073" summary="ответ:&#10;98">
-      <option name="closed" value="true" />
-      <created>1742398407869</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1742398407870</updated>
-    </task>
-    <task id="LOCAL-00074" summary="ответ:&#10;24874421616">
-      <option name="closed" value="true" />
-      <created>1742410088974</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1742410088974</updated>
-    </task>
-    <task id="LOCAL-00075" summary="ответ:&#10;16492">
-      <option name="closed" value="true" />
-      <created>1742410562831</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1742410562831</updated>
-    </task>
-    <task id="LOCAL-00076" summary="ответ:&#10;301">
-      <option name="closed" value="true" />
-      <created>1742413770544</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1742413770544</updated>
-    </task>
-    <task id="LOCAL-00077" summary="ответ:&#10;16">
-      <option name="closed" value="true" />
-      <created>1742414666339</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1742414666339</updated>
-    </task>
-    <task id="LOCAL-00078" summary="ответ:&#10;xzy">
-      <option name="closed" value="true" />
-      <created>1742860321450</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1742860321450</updated>
-    </task>
-    <task id="LOCAL-00079" summary="ответ:&#10;y z x">
-      <option name="closed" value="true" />
-      <created>1742860883887</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1742860883888</updated>
-    </task>
-    <task id="LOCAL-00080" summary="ответ:&#10;x z y">
-      <option name="closed" value="true" />
-      <created>1742861268300</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1742861268300</updated>
-    </task>
-    <task id="LOCAL-00081" summary="ответ:&#10;y w z x">
-      <option name="closed" value="true" />
-      <created>1742861753045</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1742861753045</updated>
-    </task>
-    <task id="LOCAL-00082" summary="ответ:&#10;3974639694">
-      <option name="closed" value="true" />
-      <created>1742866424987</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1742866424987</updated>
-    </task>
-    <task id="LOCAL-00083" summary="ответ:&#10;395">
-      <option name="closed" value="true" />
-      <created>1742867829722</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1742867829722</updated>
     </task>
     <task id="LOCAL-00084" summary="ответ:&#10;38">
       <option name="closed" value="true" />
@@ -625,35 +404,347 @@
       <option name="project" value="LOCAL" />
       <updated>1743072335571</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="ответ:&#10;УОУАУ">
+      <option name="closed" value="true" />
+      <created>1743072828865</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1743072828865</updated>
+    </task>
+    <task id="LOCAL-00095" summary="ответ:&#10;ЛВТТ">
+      <option name="closed" value="true" />
+      <created>1743073054768</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1743073054768</updated>
+    </task>
+    <task id="LOCAL-00096" summary="ответ:&#10;26">
+      <option name="closed" value="true" />
+      <created>1743073077523</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1743073077523</updated>
+    </task>
+    <task id="LOCAL-00097" summary="ответ:&#10;26">
+      <option name="closed" value="true" />
+      <created>1743073085347</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1743073085347</updated>
+    </task>
+    <task id="LOCAL-00098" summary="ответ:&#10;472">
+      <option name="closed" value="true" />
+      <created>1743075722453</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1743075722453</updated>
+    </task>
+    <task id="LOCAL-00099" summary="ответ:&#10;28">
+      <option name="closed" value="true" />
+      <created>1743076216272</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1743076216272</updated>
+    </task>
+    <task id="LOCAL-00100" summary="ответ:&#10;339">
+      <option name="closed" value="true" />
+      <created>1743076398392</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1743076398392</updated>
+    </task>
+    <task id="LOCAL-00101" summary="ответ:&#10;224">
+      <option name="closed" value="true" />
+      <created>1743109297510</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1743109297511</updated>
+    </task>
+    <task id="LOCAL-00102" summary="ответ:&#10;169">
+      <option name="closed" value="true" />
+      <created>1743109594025</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1743109594025</updated>
+    </task>
+    <task id="LOCAL-00103" summary="ответ:&#10;234">
+      <option name="closed" value="true" />
+      <created>1743110068296</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1743110068297</updated>
+    </task>
+    <task id="LOCAL-00104" summary="ответ:&#10;2015">
+      <option name="closed" value="true" />
+      <created>1743110766568</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1743110766568</updated>
+    </task>
+    <task id="LOCAL-00105" summary="ответ:&#10;3">
+      <option name="closed" value="true" />
+      <created>1743111115453</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1743111115453</updated>
+    </task>
+    <task id="LOCAL-00106" summary="ответ:&#10;12">
+      <option name="closed" value="true" />
+      <created>1743111911834</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1743111911834</updated>
+    </task>
+    <task id="LOCAL-00107" summary="ответ:&#10;8">
+      <option name="closed" value="true" />
+      <created>1743113288997</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1743113288997</updated>
+    </task>
+    <task id="LOCAL-00108" summary="ответ:&#10;44">
+      <option name="closed" value="true" />
+      <created>1743517302892</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1743517302892</updated>
+    </task>
+    <task id="LOCAL-00109" summary="ответ:79">
+      <option name="closed" value="true" />
+      <created>1743520290633</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1743520290633</updated>
+    </task>
+    <task id="LOCAL-00110" summary="ответ: &#10;404250 160335&#10;415800 74834&#10;433125 320927&#10;450450 162782&#10;477750 339235&#10;481950 345774">
+      <option name="closed" value="true" />
+      <created>1743524758270</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1743524758270</updated>
+    </task>
+    <task id="LOCAL-00111" summary="ответ: 104">
+      <option name="closed" value="true" />
+      <created>1744036658593</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1744036658594</updated>
+    </task>
+    <task id="LOCAL-00112" summary="ответ: 133">
+      <option name="closed" value="true" />
+      <created>1744038171262</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1744038171263</updated>
+    </task>
+    <task id="LOCAL-00113" summary="ответ: 36">
+      <option name="closed" value="true" />
+      <created>1744039103915</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1744039103915</updated>
+    </task>
+    <task id="LOCAL-00114" summary="ответ: 26387">
+      <option name="closed" value="true" />
+      <created>1744642297066</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1744642297066</updated>
+    </task>
+    <task id="LOCAL-00115" summary="ответ: 50">
+      <option name="closed" value="true" />
+      <created>1744649866976</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649866977</updated>
+    </task>
+    <task id="LOCAL-00116" summary="ответ: 1944">
+      <option name="closed" value="true" />
+      <created>1744649890507</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649890507</updated>
+    </task>
+    <task id="LOCAL-00117" summary="ответ: 30">
+      <option name="closed" value="true" />
+      <created>1744650227713</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1744650227713</updated>
+    </task>
+    <task id="LOCAL-00118" summary="ответ: &#10;19)41&#10;20)14,35&#10;21)32">
+      <option name="closed" value="true" />
+      <created>1744728865739</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1744728865739</updated>
+    </task>
+    <task id="LOCAL-00119" summary="ответ: &#10;19)5&#10;20)8,22&#10;21)19">
+      <option name="closed" value="true" />
+      <created>1744731722851</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1744731722852</updated>
+    </task>
+    <task id="LOCAL-00120" summary="ответ: &#10;7236 286698">
+      <option name="closed" value="true" />
+      <created>1744739091710</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1744739091711</updated>
+    </task>
+    <task id="LOCAL-00121" summary="ответ: &#10;10007 7953">
+      <option name="closed" value="true" />
+      <created>1744739991081</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1744739991081</updated>
+    </task>
+    <task id="LOCAL-00122" summary="ответ: &#10;10007 7953">
+      <option name="closed" value="true" />
+      <created>1744741428899</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1744741428899</updated>
+    </task>
+    <task id="LOCAL-00123" summary="ответ: 256">
+      <option name="closed" value="true" />
+      <created>1744755941847</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1744755941847</updated>
+    </task>
+    <task id="LOCAL-00124" summary="ответ: 251">
+      <option name="closed" value="true" />
+      <created>1744756470310</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1744756470310</updated>
+    </task>
+    <task id="LOCAL-00125" summary="ответ: 160">
+      <option name="closed" value="true" />
+      <created>1744756856285</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1744756856285</updated>
+    </task>
+    <task id="LOCAL-00126" summary="ответ: 10">
+      <option name="closed" value="true" />
+      <created>1744757077080</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1744757077080</updated>
+    </task>
+    <task id="LOCAL-00127" summary="ответ: 250">
+      <option name="closed" value="true" />
+      <created>1744758791535</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1744758791535</updated>
+    </task>
+    <task id="LOCAL-00128" summary="ответ: 262">
+      <option name="closed" value="true" />
+      <created>1744759496609</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1744759496609</updated>
+    </task>
+    <task id="LOCAL-00129" summary="ответ: 30">
+      <option name="closed" value="true" />
+      <created>1744761664670</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1744761664670</updated>
+    </task>
+    <task id="LOCAL-00130" summary="ответ: 50">
+      <option name="closed" value="true" />
+      <created>1744762480742</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1744762480742</updated>
+    </task>
+    <task id="LOCAL-00131" summary="ответ: 18">
+      <option name="closed" value="true" />
+      <created>1744762881003</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1744762881003</updated>
+    </task>
+    <task id="LOCAL-00132" summary="ответ: 97">
+      <option name="closed" value="true" />
+      <created>1744763445690</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1744763445690</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;757543052" />
-    <MESSAGE value="ответ:&#10;1467 197700" />
-    <MESSAGE value="ответ:&#10;500" />
-    <MESSAGE value="ответ:&#10;30" />
-    <MESSAGE value="ответ:&#10;37" />
-    <MESSAGE value="ответ:&#10;98" />
-    <MESSAGE value="ответ:&#10;24874421616" />
-    <MESSAGE value="ответ:&#10;16492" />
-    <MESSAGE value="ответ:&#10;301" />
-    <MESSAGE value="ответ:&#10;16" />
-    <MESSAGE value="ответ:&#10;xzy" />
-    <MESSAGE value="ответ:&#10;y z x" />
-    <MESSAGE value="ответ:&#10;x z y" />
-    <MESSAGE value="ответ:&#10;y w z x" />
-    <MESSAGE value="ответ:&#10;3974639694" />
-    <MESSAGE value="ответ:&#10;395" />
-    <MESSAGE value="ответ:&#10;1823" />
-    <MESSAGE value="ответ:&#10;9600497" />
-    <MESSAGE value="ответ:&#10;18" />
-    <MESSAGE value="ответ:&#10;2001" />
-    <MESSAGE value="ответ:&#10;38" />
-    <MESSAGE value="ответ:&#10;35" />
-    <MESSAGE value="ответ:&#10;5616" />
-    <MESSAGE value="ответ:&#10;162" />
-    <MESSAGE value="ответ:&#10;405" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;405" />
+    <MESSAGE value="ответ:&#10;3" />
+    <MESSAGE value="ответ:&#10;12" />
+    <MESSAGE value="ответ:&#10;8" />
+    <MESSAGE value="ответ:&#10;44" />
+    <MESSAGE value="ответ:79" />
+    <MESSAGE value="ответ: &#10;404250 160335&#10;415800 74834&#10;433125 320927&#10;450450 162782&#10;477750 339235&#10;481950 345774" />
+    <MESSAGE value="ответ: 104" />
+    <MESSAGE value="ответ: 133" />
+    <MESSAGE value="ответ: 36" />
+    <MESSAGE value="ответ: 26387" />
+    <MESSAGE value="ответ: 1944" />
+    <MESSAGE value="ответ: &#10;19)41&#10;20)14,35&#10;21)32" />
+    <MESSAGE value="ответ: &#10;19)5&#10;20)8,22&#10;21)19" />
+    <MESSAGE value="ответ: &#10;7236 286698" />
+    <MESSAGE value="ответ: &#10;10007 7953" />
+    <MESSAGE value="ответ: 256" />
+    <MESSAGE value="ответ: 251" />
+    <MESSAGE value="ответ: 160" />
+    <MESSAGE value="ответ: 10" />
+    <MESSAGE value="ответ: 250" />
+    <MESSAGE value="ответ: 262" />
+    <MESSAGE value="ответ: 30" />
+    <MESSAGE value="ответ: 50" />
+    <MESSAGE value="ответ: 18" />
+    <MESSAGE value="ответ: 97" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 97" />
   </component>
 </project>
