@@ -4,49 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 97">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:1024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Вне занятия/task-2-15124-ege.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-18866.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-18866.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-19248.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-19248.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/03-03-25/Task-16-20196.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/03-03-25(16)/Task-16-20196.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-15-8503.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-15-8503.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-15-8596.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-15-8596.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-16-14339.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-16-14339.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-16-19709.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-16-19709.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-10104.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-10104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-17684.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-17684.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/10-03-25/Task-23-4709.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/10-03-25(15-23-16)/Task-23-4709.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-19-20-21-17532.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-19-20-21-17532.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-19-20-21-436.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-19-20-21-436.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-04-25/task-8-17799.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-04-25(8-19-20-21)/task-8-17799.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_4589 (1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_4589 (1).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_4614.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_4614.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/9_9740.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/9_9740.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-4589.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-4589.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-4614.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-4614.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/07-04-25/task-9-9740.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/07-04-25(9)/task-9-9740.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-12-19483.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-12-19483.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-2-14651.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-2-14651.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-23-11240.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-23-11240.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-23-13099.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-23-13099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/13-03-25/Task-6-18131.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/13-03-25(2-6-12-23)/Task-6-18131.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/9_21408.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/9_21408.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-12-21411.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-12-21411.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-6-21405.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-6-21405.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-8-21407.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-8-21407.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/14-04-25/task-9-21408.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/14-04-25(6-8-9-12)/task-9-21408.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-12-14372.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-12-14372.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-14-20490.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-14-20490.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-2-12671(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-2-12671(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-2-12671.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-2-12671.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-5-14328.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-5-14328.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-6-17625.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-6-17625.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/17-03-25/Task-8-17862.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-03-25(2-5-6-8-12-14)/Task-8-17862.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/17_12735.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/Task-19-20-21-1863.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/Task-19-20-21-1863.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/task-12-10714.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/task-12-10714.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/27-03-25/task-5-18119.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/27-03-25(5-12-19+20+21)/task-5-18119.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-11790.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-11790.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-11791.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-11791.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-11794.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-11794.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-11835.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-11835.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-17526.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-17526.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-17554.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-17554.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/17-04-25/task-13-17632.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/17-04-25(13)/task-13-17632.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +63,13 @@
     "Python.15-34545.executor": "Run",
     "Python.15-51984.executor": "Run",
     "Python.16-5278.executor": "Run",
+    "Python.16-5714.executor": "Run",
+    "Python.16-57423.executor": "Run",
+    "Python.17-37348.executor": "Run",
+    "Python.23-15638.executor": "Run",
+    "Python.23-16898.executor": "Run",
+    "Python.23-6584.executor": "Run",
+    "Python.23-70084.executor": "Run",
     "Python.8(25840).executor": "Run",
     "Python.8-10500.executor": "Run",
     "Python.8-13737.executor": "Run",
@@ -192,6 +165,17 @@
     "Python.task-12-21411.executor": "Run",
     "Python.task-12-9365-ege.executor": "Run",
     "Python.task-12-9764-ege.executor": "Run",
+    "Python.task-13-.executor": "Run",
+    "Python.task-13-11790.executor": "Run",
+    "Python.task-13-11791.executor": "Run",
+    "Python.task-13-11794.executor": "Run",
+    "Python.task-13-11835.executor": "Run",
+    "Python.task-13-17526.executor": "Run",
+    "Python.task-13-17554.executor": "Run",
+    "Python.task-13-17632.executor": "Run",
+    "Python.task-13-18487.executor": "Run",
+    "Python.task-13-20902.executor": "Run",
+    "Python.task-13-21412.executor": "Run",
     "Python.task-14-19484.executor": "Run",
     "Python.task-14-19705.executor": "Run",
     "Python.task-14-19880.executor": "Run",
@@ -242,17 +226,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия/прогон 8-14-15-16-17-19-20-21-23",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия\прогон 8-14-15-16-17-19-20-21-23" />
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\07-04-25" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\14-03-25(23-25-17)" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\27-02-25" />
-      <recent name="C:\Users\User\PycharmProjects\ks\10-02-25dz" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\14-04-25" />
@@ -323,134 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00084" summary="ответ:&#10;38">
-      <option name="closed" value="true" />
-      <created>1742868309557</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1742868309557</updated>
-    </task>
-    <task id="LOCAL-00085" summary="ответ:&#10;1823">
-      <option name="closed" value="true" />
-      <created>1742921874956</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1742921874956</updated>
-    </task>
-    <task id="LOCAL-00086" summary="ответ:&#10;9600497">
-      <option name="closed" value="true" />
-      <created>1742923185022</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1742923185022</updated>
-    </task>
-    <task id="LOCAL-00087" summary="ответ:&#10;18">
-      <option name="closed" value="true" />
-      <created>1742924142321</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1742924142321</updated>
-    </task>
-    <task id="LOCAL-00088" summary="ответ:&#10;2001">
-      <option name="closed" value="true" />
-      <created>1742924972958</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1742924972958</updated>
-    </task>
-    <task id="LOCAL-00089" summary="ответ:&#10;38">
-      <option name="closed" value="true" />
-      <created>1743068937471</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1743068937472</updated>
-    </task>
-    <task id="LOCAL-00090" summary="ответ:&#10;35">
-      <option name="closed" value="true" />
-      <created>1743069357883</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1743069357883</updated>
-    </task>
-    <task id="LOCAL-00091" summary="ответ:&#10;5616">
-      <option name="closed" value="true" />
-      <created>1743071771784</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1743071771784</updated>
-    </task>
-    <task id="LOCAL-00092" summary="ответ:&#10;162">
-      <option name="closed" value="true" />
-      <created>1743072061519</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1743072061519</updated>
-    </task>
-    <task id="LOCAL-00093" summary="ответ:&#10;405">
-      <option name="closed" value="true" />
-      <created>1743072335571</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1743072335571</updated>
-    </task>
-    <task id="LOCAL-00094" summary="ответ:&#10;УОУАУ">
-      <option name="closed" value="true" />
-      <created>1743072828865</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1743072828865</updated>
-    </task>
-    <task id="LOCAL-00095" summary="ответ:&#10;ЛВТТ">
-      <option name="closed" value="true" />
-      <created>1743073054768</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1743073054768</updated>
-    </task>
-    <task id="LOCAL-00096" summary="ответ:&#10;26">
-      <option name="closed" value="true" />
-      <created>1743073077523</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1743073077523</updated>
-    </task>
-    <task id="LOCAL-00097" summary="ответ:&#10;26">
-      <option name="closed" value="true" />
-      <created>1743073085347</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1743073085347</updated>
-    </task>
-    <task id="LOCAL-00098" summary="ответ:&#10;472">
-      <option name="closed" value="true" />
-      <created>1743075722453</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1743075722453</updated>
-    </task>
-    <task id="LOCAL-00099" summary="ответ:&#10;28">
-      <option name="closed" value="true" />
-      <created>1743076216272</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1743076216272</updated>
     </task>
     <task id="LOCAL-00100" summary="ответ:&#10;339">
       <option name="closed" value="true" />
@@ -716,26 +572,138 @@
       <option name="project" value="LOCAL" />
       <updated>1744763445690</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="ответ: 31">
+      <option name="closed" value="true" />
+      <created>1744763712963</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1744763712963</updated>
+    </task>
+    <task id="LOCAL-00134" summary="ответ: 45">
+      <option name="closed" value="true" />
+      <created>1744763867540</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1744763867540</updated>
+    </task>
+    <task id="LOCAL-00135" summary="ответ: 2024">
+      <option name="closed" value="true" />
+      <created>1744764096705</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1744764096705</updated>
+    </task>
+    <task id="LOCAL-00136" summary="ответ: 14">
+      <option name="closed" value="true" />
+      <created>1744766501182</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1744766501182</updated>
+    </task>
+    <task id="LOCAL-00137" summary="ответ: 28">
+      <option name="closed" value="true" />
+      <created>1744766514660</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1744766514660</updated>
+    </task>
+    <task id="LOCAL-00138" summary="ответ: 36">
+      <option name="closed" value="true" />
+      <created>1744766682565</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1744766682565</updated>
+    </task>
+    <task id="LOCAL-00139" summary="ответ: 26">
+      <option name="closed" value="true" />
+      <created>1744766920034</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1744766920034</updated>
+    </task>
+    <task id="LOCAL-00140" summary="ответ: 8192">
+      <option name="closed" value="true" />
+      <created>1744900731936</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900731937</updated>
+    </task>
+    <task id="LOCAL-00141" summary="ответ: 699050">
+      <option name="closed" value="true" />
+      <created>1744901052185</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1744901052185</updated>
+    </task>
+    <task id="LOCAL-00142" summary="ответ: 215766">
+      <option name="closed" value="true" />
+      <created>1744901291794</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1744901291794</updated>
+    </task>
+    <task id="LOCAL-00143" summary="ответ: 248">
+      <option name="closed" value="true" />
+      <created>1744901858173</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1744901858173</updated>
+    </task>
+    <task id="LOCAL-00144" summary="ответ: 252">
+      <option name="closed" value="true" />
+      <created>1744903166675</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903166675</updated>
+    </task>
+    <task id="LOCAL-00145" summary="ответ:254">
+      <option name="closed" value="true" />
+      <created>1744903721488</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903721488</updated>
+    </task>
+    <task id="LOCAL-00146" summary="ответ:37">
+      <option name="closed" value="true" />
+      <created>1744906831923</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1744906831923</updated>
+    </task>
+    <task id="LOCAL-00147" summary="ответ:13367">
+      <option name="closed" value="true" />
+      <created>1745179293270</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1745179293271</updated>
+    </task>
+    <task id="LOCAL-00148" summary="ответ:1024">
+      <option name="closed" value="true" />
+      <created>1745179679035</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1745179679035</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;3" />
-    <MESSAGE value="ответ:&#10;12" />
-    <MESSAGE value="ответ:&#10;8" />
-    <MESSAGE value="ответ:&#10;44" />
-    <MESSAGE value="ответ:79" />
-    <MESSAGE value="ответ: &#10;404250 160335&#10;415800 74834&#10;433125 320927&#10;450450 162782&#10;477750 339235&#10;481950 345774" />
-    <MESSAGE value="ответ: 104" />
-    <MESSAGE value="ответ: 133" />
-    <MESSAGE value="ответ: 36" />
-    <MESSAGE value="ответ: 26387" />
-    <MESSAGE value="ответ: 1944" />
-    <MESSAGE value="ответ: &#10;19)41&#10;20)14,35&#10;21)32" />
-    <MESSAGE value="ответ: &#10;19)5&#10;20)8,22&#10;21)19" />
-    <MESSAGE value="ответ: &#10;7236 286698" />
-    <MESSAGE value="ответ: &#10;10007 7953" />
-    <MESSAGE value="ответ: 256" />
     <MESSAGE value="ответ: 251" />
     <MESSAGE value="ответ: 160" />
     <MESSAGE value="ответ: 10" />
@@ -745,6 +713,33 @@
     <MESSAGE value="ответ: 50" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 97" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 97" />
+    <MESSAGE value="ответ: 31" />
+    <MESSAGE value="ответ: 45" />
+    <MESSAGE value="ответ: 2024" />
+    <MESSAGE value="ответ: 14" />
+    <MESSAGE value="ответ: 28" />
+    <MESSAGE value="ответ: 36" />
+    <MESSAGE value="ответ: 26" />
+    <MESSAGE value="ответ: 8192" />
+    <MESSAGE value="ответ: 699050" />
+    <MESSAGE value="ответ: 215766" />
+    <MESSAGE value="ответ: 248" />
+    <MESSAGE value="ответ: 252" />
+    <MESSAGE value="ответ:254" />
+    <MESSAGE value="ответ:37" />
+    <MESSAGE value="ответ:13367" />
+    <MESSAGE value="ответ:1024" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:1024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/занятия/17-04-25(13)/task-13-17526.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
