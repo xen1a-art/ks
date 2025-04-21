@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;405">
-      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;160">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробники/28-03-25/task-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/28-03-25/task-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробники/28-03-25/task-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/28-03-25/task-17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/пробники/28-03-25/task-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/пробники/28-03-25/task-8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,121 +45,123 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Task-1-1845.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-1-4581.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-12-14372.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-12-19483.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-122.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14-12246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14-19246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14-19406.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14-20490.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-1013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-1320.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-14330.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-16833.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-18175.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-18266.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-18595.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-19247.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-4278.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-4327.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-5437.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-746.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-747.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-753.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-7846.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-8503.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-8596.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-8677.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15-86777.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-16-14339.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-16-18866.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-16-19248.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-16-19709.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-16-20196.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-14260.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-17873.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-18617.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-19249s.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-4597.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-4622.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-4705.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-9748.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-17-9786.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-12671(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-12671.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-13077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-13089.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-13797.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-14390.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-14651.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-1846.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-4582.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-4607.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-7667.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-9733.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-9771.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-10104.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-11240.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-13099.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-17684.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-4601.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-4709.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-23-9790.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-25-2716.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-25-2943.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-25-3025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-25-8696.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5-10657.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5-14328.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5-14330.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-6-17625.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-6-18131.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-17862.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-18976.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-19240.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-1927.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-19753.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-197533.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-5300.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8-5553.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python.exe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-19484.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-19705.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-19880.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-20193.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-20904.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-2-14688-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-2-15097-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-2-15124-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-2-15787-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-5-64935.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-5-73860-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-6-47210-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-3193-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-58235-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-58237-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-59713-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-7667-ege.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-8098-ege.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/ks/дз/27-02-25&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task-1-1845.executor": "Run",
+    "Python.Task-1-4581.executor": "Run",
+    "Python.Task-12-14372.executor": "Run",
+    "Python.Task-12-19483.executor": "Run",
+    "Python.Task-12.executor": "Run",
+    "Python.Task-122.executor": "Run",
+    "Python.Task-14-12246.executor": "Run",
+    "Python.Task-14-19246.executor": "Run",
+    "Python.Task-14-19406.executor": "Run",
+    "Python.Task-14-20490.executor": "Run",
+    "Python.Task-14.executor": "Run",
+    "Python.Task-15-1013.executor": "Run",
+    "Python.Task-15-1320.executor": "Run",
+    "Python.Task-15-14330.executor": "Run",
+    "Python.Task-15-16833.executor": "Run",
+    "Python.Task-15-18175.executor": "Run",
+    "Python.Task-15-18266.executor": "Run",
+    "Python.Task-15-18595.executor": "Run",
+    "Python.Task-15-19247.executor": "Run",
+    "Python.Task-15-4278.executor": "Run",
+    "Python.Task-15-4327.executor": "Run",
+    "Python.Task-15-5437.executor": "Run",
+    "Python.Task-15-746.executor": "Run",
+    "Python.Task-15-747.executor": "Run",
+    "Python.Task-15-753.executor": "Run",
+    "Python.Task-15-7846.executor": "Run",
+    "Python.Task-15-8503.executor": "Run",
+    "Python.Task-15-8596.executor": "Run",
+    "Python.Task-15-8677.executor": "Run",
+    "Python.Task-15-86777.executor": "Run",
+    "Python.Task-15.executor": "Run",
+    "Python.Task-16-14339.executor": "Run",
+    "Python.Task-16-18866.executor": "Run",
+    "Python.Task-16-19248.executor": "Run",
+    "Python.Task-16-19709.executor": "Run",
+    "Python.Task-16-20196.executor": "Run",
+    "Python.Task-17-14260.executor": "Run",
+    "Python.Task-17-17873.executor": "Run",
+    "Python.Task-17-18617.executor": "Run",
+    "Python.Task-17-19249s.executor": "Run",
+    "Python.Task-17-4597.executor": "Run",
+    "Python.Task-17-4622.executor": "Run",
+    "Python.Task-17-4705.executor": "Run",
+    "Python.Task-17-9748.executor": "Run",
+    "Python.Task-17-9786.executor": "Run",
+    "Python.Task-2-12671(2).executor": "Run",
+    "Python.Task-2-12671.executor": "Run",
+    "Python.Task-2-13077.executor": "Run",
+    "Python.Task-2-13089.executor": "Run",
+    "Python.Task-2-13797.executor": "Run",
+    "Python.Task-2-14390.executor": "Run",
+    "Python.Task-2-14651.executor": "Run",
+    "Python.Task-2-1846.executor": "Run",
+    "Python.Task-2-4582.executor": "Run",
+    "Python.Task-2-4607.executor": "Run",
+    "Python.Task-2-7667.executor": "Run",
+    "Python.Task-2-9733.executor": "Run",
+    "Python.Task-2-9771.executor": "Run",
+    "Python.Task-2.executor": "Run",
+    "Python.Task-23-10104.executor": "Run",
+    "Python.Task-23-11240.executor": "Run",
+    "Python.Task-23-13099.executor": "Run",
+    "Python.Task-23-17684.executor": "Run",
+    "Python.Task-23-4601.executor": "Run",
+    "Python.Task-23-4709.executor": "Run",
+    "Python.Task-23-9790.executor": "Run",
+    "Python.Task-25-2716.executor": "Run",
+    "Python.Task-25-2943.executor": "Run",
+    "Python.Task-25-3025.executor": "Run",
+    "Python.Task-25-8696.executor": "Run",
+    "Python.Task-5-10657.executor": "Run",
+    "Python.Task-5-14328.executor": "Run",
+    "Python.Task-5-14330.executor": "Run",
+    "Python.Task-5-19237.executor": "Run",
+    "Python.Task-5.executor": "Run",
+    "Python.Task-6-17625.executor": "Run",
+    "Python.Task-6-18131.executor": "Run",
+    "Python.Task-6.executor": "Run",
+    "Python.Task-8-17862.executor": "Run",
+    "Python.Task-8-18976.executor": "Run",
+    "Python.Task-8-19240.executor": "Run",
+    "Python.Task-8-1927.executor": "Run",
+    "Python.Task-8-19753.executor": "Run",
+    "Python.Task-8-197533.executor": "Run",
+    "Python.Task-8-5300.executor": "Run",
+    "Python.Task-8-5553.executor": "Run",
+    "Python.Task-8.executor": "Run",
+    "Python.python.exe.executor": "Run",
+    "Python.task-13-11784.executor": "Run",
+    "Python.task-14-19484.executor": "Run",
+    "Python.task-14-19705.executor": "Run",
+    "Python.task-14-19880.executor": "Run",
+    "Python.task-14-20193.executor": "Run",
+    "Python.task-14-20904.executor": "Run",
+    "Python.task-2-14688-ege.executor": "Run",
+    "Python.task-2-15097-ege.executor": "Run",
+    "Python.task-2-15124-ege.executor": "Run",
+    "Python.task-2-15787-ege.executor": "Run",
+    "Python.task-23-13968.executor": "Run",
+    "Python.task-5-64935.executor": "Run",
+    "Python.task-5-73860-ege.executor": "Run",
+    "Python.task-6-47210-ege.executor": "Run",
+    "Python.task-8-3193-ege.executor": "Run",
+    "Python.task-8-58235-ege.executor": "Run",
+    "Python.task-8-58237-ege.executor": "Run",
+    "Python.task-8-59713-ege.executor": "Run",
+    "Python.task-8-7667-ege.executor": "Run",
+    "Python.task-8-8098-ege.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/дз/27-02-25",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\дз\27-02-25" />
@@ -237,14 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00045" summary="text">
-      <option name="closed" value="true" />
-      <created>1739708717722</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1739708717722</updated>
     </task>
     <task id="LOCAL-00046" summary="ответ: 180 190360573">
       <option name="closed" value="true" />
@@ -630,11 +619,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743072335571</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="ответ:&#10;160">
+      <option name="closed" value="true" />
+      <created>1745244529790</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1745244529790</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;757543052" />
     <MESSAGE value="ответ:&#10;1467 197700" />
     <MESSAGE value="ответ:&#10;500" />
     <MESSAGE value="ответ:&#10;30" />
@@ -659,6 +655,7 @@
     <MESSAGE value="ответ:&#10;5616" />
     <MESSAGE value="ответ:&#10;162" />
     <MESSAGE value="ответ:&#10;405" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;405" />
+    <MESSAGE value="ответ:&#10;160" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;160" />
   </component>
 </project>
