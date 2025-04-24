@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 248">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-11768.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-11768.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-11784.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-11784.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-12451.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-12451.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-14355.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-14355.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-14648.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-14648.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-18487.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-18487.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-13-20807.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-13-20807.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-19-20-21-20907.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-19-20-21-20907.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/21-04-25/task-23-13968.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/21-04-25(13(2))/task-23-13968.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +140,7 @@
     "Python.task-13-11789.executor": "Run",
     "Python.task-13-12451.executor": "Run",
     "Python.task-13-14355.executor": "Run",
+    "Python.task-13-14359.executor": "Run",
     "Python.task-13-14648.executor": "Run",
     "Python.task-13-18487.executor": "Run",
     "Python.task-13-20807.executor": "Run",
@@ -167,6 +159,7 @@
     "Python.task-5-73860-ege.executor": "Run",
     "Python.task-6-47210-ege.executor": "Run",
     "Python.task-8-3193-ege.executor": "Run",
+    "Python.task-8-360.executor": "Run",
     "Python.task-8-58235-ege.executor": "Run",
     "Python.task-8-58237-ege.executor": "Run",
     "Python.task-8-59713-ege.executor": "Run",
@@ -251,14 +244,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00054" summary="ответ:6">
-      <option name="closed" value="true" />
-      <created>1741877661218</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1741877661218</updated>
     </task>
     <task id="LOCAL-00055" summary="ответ: 55">
       <option name="closed" value="true" />
@@ -644,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745251472975</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="ответ: 248">
+      <option name="closed" value="true" />
+      <created>1745504062302</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1745504062302</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
