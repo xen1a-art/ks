@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;19) [21]&#10;20) [7, 18]&#10;21) 2">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;10738 30730&#10;37522 51277">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -707,7 +707,6 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 50" />
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 97" />
     <MESSAGE value="ответ: 31" />
@@ -732,7 +731,8 @@
     <MESSAGE value="ответ:0" />
     <MESSAGE value="ответ:&#10;19) [33]&#10;20) [30, 32]&#10;21) [29, 31]" />
     <MESSAGE value="ответ:&#10;19) [21]&#10;20) [7, 18]&#10;21) 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;19) [21]&#10;20) [7, 18]&#10;21) 2" />
+    <MESSAGE value="ответ:&#10;10738 30730&#10;37522 51277" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;10738 30730&#10;37522 51277" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
