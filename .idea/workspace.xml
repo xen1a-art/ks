@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;208">
-      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;507 1042">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-1013.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-15-1013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-1320.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-15-1320.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-746.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-15-746.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-747.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-15-747.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-15-753.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-15-753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/03-02-25(15)/Task-8-18976.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/03-02-25(8-15)/Task-8-18976.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +62,7 @@
     "Python.16-5278.executor": "Run",
     "Python.16-5714.executor": "Run",
     "Python.16-57423.executor": "Run",
+    "Python.17-19249.executor": "Run",
     "Python.17-21712.executor": "Run",
     "Python.17-37348.executor": "Run",
     "Python.19-20-21-17682.executor": "Run",
@@ -241,17 +234,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия/прогон 8-14-15-16-17-19-20-21-23",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия\прогон 8-14-15-16-17-19-20-21-23" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\01-05(5-25-27)" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\01-05-25(8-27)" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия" />
-      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
@@ -323,14 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00107" summary="ответ:&#10;8">
-      <option name="closed" value="true" />
-      <created>1743113288997</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1743113288997</updated>
     </task>
     <task id="LOCAL-00108" summary="ответ:&#10;44">
       <option name="closed" value="true" />
@@ -716,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746374081546</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="ответ:&#10;507 1042">
+      <option name="closed" value="true" />
+      <created>1746555994864</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1746555994865</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 97" />
     <MESSAGE value="ответ: 31" />
     <MESSAGE value="ответ: 45" />
     <MESSAGE value="ответ: 2024" />
@@ -745,7 +737,8 @@
     <MESSAGE value="ответ:&#10;19) [21]&#10;20) [7, 18]&#10;21) 2" />
     <MESSAGE value="ответ:&#10;10738 30730&#10;37522 51277" />
     <MESSAGE value="ответ:&#10;208" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;208" />
+    <MESSAGE value="ответ:&#10;507 1042" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;507 1042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
