@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;92 838850571" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;2 20726">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +76,8 @@
     "Python.25-14438.executor": "Run",
     "Python.25-19775.executor": "Run",
     "Python.27-17882.executor": "Run",
+    "Python.27-18623.executor": "Run",
+    "Python.27-19747.executor": "Run",
     "Python.27-21425.executor": "Run",
     "Python.8(25840).executor": "Run",
     "Python.8-10500.executor": "Run",
@@ -233,17 +237,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/Вне занятия",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/дз/06-05(8-15-19-20-21-27)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\дз\06-05(8-15-19-20-21-27)" />
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия\прогон 8-14-15-16-17-19-20-21-23" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\01-05(5-25-27)" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\01-05-25(8-27)" />
-      <recent name="C:\Users\User\PycharmProjects\ks\занятия" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
@@ -315,14 +319,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00109" summary="ответ:79">
-      <option name="closed" value="true" />
-      <created>1743520290633</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1743520290633</updated>
     </task>
     <task id="LOCAL-00110" summary="ответ: &#10;404250 160335&#10;415800 74834&#10;433125 320927&#10;450450 162782&#10;477750 339235&#10;481950 345774">
       <option name="closed" value="true" />
@@ -708,11 +704,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746556965069</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="ответ:&#10;2 20726">
+      <option name="closed" value="true" />
+      <created>1746558069578</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1746558069578</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 45" />
     <MESSAGE value="ответ: 2024" />
     <MESSAGE value="ответ: 14" />
     <MESSAGE value="ответ: 28" />
@@ -737,7 +740,8 @@
     <MESSAGE value="ответ:&#10;208" />
     <MESSAGE value="ответ:&#10;507 1042" />
     <MESSAGE value="ответ:&#10;92 838850571" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;92 838850571" />
+    <MESSAGE value="ответ:&#10;2 20726" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;2 20726" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
