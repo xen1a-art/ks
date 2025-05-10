@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;243 3614" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;243 3614">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
     "Python.16-5278.executor": "Run",
     "Python.16-5714.executor": "Run",
     "Python.16-57423.executor": "Run",
+    "Python.17-17680.executor": "Run",
     "Python.17-18045.executor": "Run",
     "Python.17-19119.executor": "Run",
     "Python.17-19249.executor": "Run",
@@ -73,6 +76,7 @@
     "Python.23-70084.executor": "Run",
     "Python.25-12255.executor": "Run",
     "Python.25-14438.executor": "Run",
+    "Python.25-19755.executor": "Run",
     "Python.25-19775.executor": "Run",
     "Python.27-17882.executor": "Run",
     "Python.27-18623.executor": "Run",
@@ -320,14 +324,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00115" summary="ответ: 50">
-      <option name="closed" value="true" />
-      <created>1744649866976</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1744649866977</updated>
     </task>
     <task id="LOCAL-00116" summary="ответ: 1944">
       <option name="closed" value="true" />
@@ -713,7 +709,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746901367683</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="ответ:&#10;243 3614">
+      <option name="closed" value="true" />
+      <created>1746902130221</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1746902130221</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
