@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;26216 24182&#10;150891 63754">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;319">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.16-21711.executor": "Run",
+    "Python.19-20-21-18268.executor": "Run",
+    "Python.23-18267.executor": "Run",
+    "Python.27-21599.executor": "Run",
     "Python.27-21720.executor": "Run",
     "Python.27-21911.executor": "Run",
     "Python.5.executor": "Run",
@@ -174,17 +178,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/KZinoveva/Desktop/ks/Вне занятия",
+    "last_opened_file_path": "C:/Users/KZinoveva/Desktop/ks/занятия/12-05-25",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KZinoveva\Desktop\ks\занятия\12-05-25" />
       <recent name="C:\Users\KZinoveva\Desktop\ks\Вне занятия" />
       <recent name="C:\Users\KZinoveva\Desktop\ks\занятия\05-05(27)" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\27-02-25" />
       <recent name="C:\Users\User\PycharmProjects\ks\10-02-25dz" />
-      <recent name="C:\Users\User\PycharmProjects\ks\22-01-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\10-02-25" />
@@ -296,22 +300,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00062" summary="ответ:&#10;67476">
-      <option name="closed" value="true" />
-      <created>1742225139907</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1742225139907</updated>
-    </task>
-    <task id="LOCAL-00063" summary="ответ:&#10;7">
-      <option name="closed" value="true" />
-      <created>1742227730497</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1742227730497</updated>
     </task>
     <task id="LOCAL-00064" summary="ответ:&#10;2000">
       <option name="closed" value="true" />
@@ -689,12 +677,26 @@
       <option name="project" value="LOCAL" />
       <updated>1746458312490</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="ответ:&#10;2276939784">
+      <option name="closed" value="true" />
+      <created>1747058983762</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1747058983762</updated>
+    </task>
+    <task id="LOCAL-00112" summary="ответ:&#10;319">
+      <option name="closed" value="true" />
+      <created>1747060258246</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1747060258246</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;395" />
-    <MESSAGE value="ответ:&#10;1823" />
     <MESSAGE value="ответ:&#10;9600497" />
     <MESSAGE value="ответ:&#10;18" />
     <MESSAGE value="ответ:&#10;2001" />
@@ -718,6 +720,8 @@
     <MESSAGE value="ответ:" />
     <MESSAGE value="ответ:7598610" />
     <MESSAGE value="ответ:&#10;26216 24182&#10;150891 63754" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;26216 24182&#10;150891 63754" />
+    <MESSAGE value="ответ:&#10;2276939784" />
+    <MESSAGE value="ответ:&#10;319" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;319" />
   </component>
 </project>
