@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 188">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/24-1866.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24-1866.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/24-1975.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24-1975.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/24_1866.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24_1866.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/24_1975.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24_1975.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/27-18056.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/27-18056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-05/27A_18056.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/27A_18056.txt" afterDir="false" />
-    </list>
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 1023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -334,14 +326,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00119" summary="ответ: &#10;19)5&#10;20)8,22&#10;21)19">
-      <option name="closed" value="true" />
-      <created>1744731722851</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1744731722852</updated>
     </task>
     <task id="LOCAL-00120" summary="ответ: &#10;7236 286698">
       <option name="closed" value="true" />
@@ -727,11 +711,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747322335805</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="ответ: 1023">
+      <option name="closed" value="true" />
+      <created>1747664232204</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1747664232204</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 215766" />
     <MESSAGE value="ответ: 248" />
     <MESSAGE value="ответ: 252" />
     <MESSAGE value="ответ:254" />
@@ -756,7 +747,8 @@
     <MESSAGE value="ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598" />
     <MESSAGE value="ответ:&#10;43744 47901" />
     <MESSAGE value="ответ: 188" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 188" />
+    <MESSAGE value="ответ: 1023" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 1023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
