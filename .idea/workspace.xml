@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 188">
-      <change beforePath="$PROJECT_DIR$/.idea/ks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/24-1866.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24-1866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/24-1975.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24-1975.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/24_1866.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24_1866.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/24_1975.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/24_1975.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/27-18056.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/27-18056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-05/27A_18056.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-05(27-24)/27A_18056.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +93,7 @@
     "Python.27-19747.executor": "Run",
     "Python.27-20497.executor": "Run",
     "Python.27-21425.executor": "Run",
+    "Python.5-4869.executor": "Run",
     "Python.8(25840).executor": "Run",
     "Python.8-10500.executor": "Run",
     "Python.8-13737.executor": "Run",
