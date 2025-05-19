@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 9591" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 21.9 =&gt; 22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +78,8 @@
     "Python.23-70084.executor": "Run",
     "Python.24-1866.executor": "Run",
     "Python.24-1975.executor": "Run",
+    "Python.24-9753.executor": "Run",
+    "Python.24-9791.executor": "Run",
     "Python.25-12255.executor": "Run",
     "Python.25-14438.executor": "Run",
     "Python.25-19755.executor": "Run",
@@ -246,17 +250,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/занятия/15-05",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/занятия/19-05",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\занятия\19-05" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\15-05" />
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\08-05(27 аномалии)" />
       <recent name="C:\Users\User\PycharmProjects\ks\дз\06-05(8-15-19-20-21-27)" />
-      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия\прогон 8-14-15-16-17-19-20-21-23" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
@@ -328,14 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00121" summary="ответ: &#10;10007 7953">
-      <option name="closed" value="true" />
-      <created>1744739991081</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1744739991081</updated>
     </task>
     <task id="LOCAL-00122" summary="ответ: &#10;10007 7953">
       <option name="closed" value="true" />
@@ -721,11 +717,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747664664983</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="ответ: 21.9 =&gt; 22">
+      <option name="closed" value="true" />
+      <created>1747665193670</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1747665193670</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 252" />
     <MESSAGE value="ответ:254" />
     <MESSAGE value="ответ:37" />
     <MESSAGE value="ответ:13367" />
@@ -750,7 +753,8 @@
     <MESSAGE value="ответ: 188" />
     <MESSAGE value="ответ: 1023" />
     <MESSAGE value="ответ: 9591" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 9591" />
+    <MESSAGE value="ответ: 21.9 =&gt; 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 21.9 =&gt; 22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
