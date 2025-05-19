@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 21.9 =&gt; 22">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 244">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -332,14 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00122" summary="ответ: &#10;10007 7953">
-      <option name="closed" value="true" />
-      <created>1744741428899</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1744741428899</updated>
     </task>
     <task id="LOCAL-00123" summary="ответ: 256">
       <option name="closed" value="true" />
@@ -725,11 +717,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747665193670</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="ответ: 244">
+      <option name="closed" value="true" />
+      <created>1747669751960</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1747669751960</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:254" />
     <MESSAGE value="ответ:37" />
     <MESSAGE value="ответ:13367" />
     <MESSAGE value="ответ:1024" />
@@ -754,7 +753,8 @@
     <MESSAGE value="ответ: 1023" />
     <MESSAGE value="ответ: 9591" />
     <MESSAGE value="ответ: 21.9 =&gt; 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 21.9 =&gt; 22" />
+    <MESSAGE value="ответ: 244" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 244" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
