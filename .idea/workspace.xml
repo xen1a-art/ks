@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 2598">
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 2379">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/14-18167.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/14-18167.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/15-12469.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/15-12469.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/24-9753.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/24-9753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/24-9791.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/24-9791.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/24_9753.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/24_9753.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/24_9791.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/24_9791.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/19-05/5-4869.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/19-05(5-14-15-24)/5-4869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24-19254.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24-19254.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24-21421.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24-21421.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24-21908.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24-21908.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24_19254.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24_19254.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24_21421.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24_21421.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/24_21908.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/24_21908.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/8-20270.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/8-20270.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/26-05-25/8-20833.py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/26-05-25(8-24)/8-20833.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +92,7 @@
     "Python.23-6584.executor": "Run",
     "Python.23-70084.executor": "Run",
     "Python.24-1866.executor": "Run",
+    "Python.24-19254.executor": "Run",
     "Python.24-1975.executor": "Run",
     "Python.24-21421.executor": "Run",
     "Python.24-21908.executor": "Run",
@@ -94,6 +110,7 @@
     "Python.27-20497.executor": "Run",
     "Python.27-21425.executor": "Run",
     "Python.5-4869.executor": "Run",
+    "Python.6-8137.executor": "Run",
     "Python.8(25840).executor": "Run",
     "Python.8-10500.executor": "Run",
     "Python.8-13737.executor": "Run",
@@ -336,14 +353,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00128" summary="ответ: 262">
-      <option name="closed" value="true" />
-      <created>1744759496609</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1744759496609</updated>
     </task>
     <task id="LOCAL-00129" summary="ответ: 30">
       <option name="closed" value="true" />
@@ -729,11 +738,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748248490527</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="ответ: 2379">
+      <option name="closed" value="true" />
+      <created>1748249883700</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1748249883700</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:42" />
     <MESSAGE value="ответ:0" />
     <MESSAGE value="ответ:&#10;19) [33]&#10;20) [30, 32]&#10;21) [29, 31]" />
     <MESSAGE value="ответ:&#10;19) [21]&#10;20) [7, 18]&#10;21) 2" />
@@ -758,7 +774,8 @@
     <MESSAGE value="ответ: 88950" />
     <MESSAGE value="ответ: 19" />
     <MESSAGE value="ответ: 2598" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 2598" />
+    <MESSAGE value="ответ: 2379" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: 2379" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
