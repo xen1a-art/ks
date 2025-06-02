@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: z x y w" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: w x y z">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +145,7 @@
     "Python.Task-8-5553.executor": "Run",
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
+    "Python.task-12671.executor": "Run",
     "Python.task-13-11768.executor": "Run",
     "Python.task-13-11784.executor": "Run",
     "Python.task-13-11789.executor": "Run",
@@ -166,6 +169,7 @@
     "Python.task-2-15124-ege.executor": "Run",
     "Python.task-2-15787-ege.executor": "Run",
     "Python.task-23-13968.executor": "Run",
+    "Python.task-4585.executor": "Run",
     "Python.task-4606.executor": "Run",
     "Python.task-4606=.executor": "Run",
     "Python.task-5-64935.executor": "Run",
@@ -326,22 +330,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00067" summary="ответ:&#10;8094">
-      <option name="closed" value="true" />
-      <created>1742282322890</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1742282322890</updated>
-    </task>
-    <task id="LOCAL-00068" summary="ответ:&#10;757543052">
-      <option name="closed" value="true" />
-      <created>1742307201942</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1742307201942</updated>
     </task>
     <task id="LOCAL-00069" summary="ответ:&#10;1467 197700">
       <option name="closed" value="true" />
@@ -719,11 +707,26 @@
       <option name="project" value="LOCAL" />
       <updated>1748861934291</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="ответ: w x y z">
+      <option name="closed" value="true" />
+      <created>1748862477608</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1748862477608</updated>
+    </task>
+    <task id="LOCAL-00117" summary="ответ: w x y z">
+      <option name="closed" value="true" />
+      <created>1748862884624</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1748862884624</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;38" />
     <MESSAGE value="ответ:&#10;35" />
     <MESSAGE value="ответ:&#10;5616" />
     <MESSAGE value="ответ:&#10;162" />
@@ -748,6 +751,7 @@
     <MESSAGE value="ответ: 18" />
     <MESSAGE value="ответ: 55" />
     <MESSAGE value="ответ: z x y w" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: z x y w" />
+    <MESSAGE value="ответ: w x y z" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: w x y z" />
   </component>
 </project>
