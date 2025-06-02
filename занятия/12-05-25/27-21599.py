@@ -27,3 +27,5 @@ centers = [centroid(cluster) for cluster in clusters]
 p_x= sum(center[0] for center in centers)/ len(centers)
 p_y= sum(center[1] for center in centers)/ len(centers)
 print(abs(int(p_x * 10_000)),abs(int(p_y *10_000)))
+
+#b
