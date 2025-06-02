@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: w z y x" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: z x y w" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -347,14 +347,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00139" summary="ответ: 26">
-      <option name="closed" value="true" />
-      <created>1744766920034</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1744766920034</updated>
     </task>
     <task id="LOCAL-00140" summary="ответ: 8192">
       <option name="closed" value="true" />
@@ -740,11 +732,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748886449852</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="ответ: z x y w">
+      <option name="closed" value="true" />
+      <created>1748886793342</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1748886793342</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ:&#10;132035 86733&#10;13054 128771" />
     <MESSAGE value="ответ:&#10;243 3614" />
     <MESSAGE value="ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598" />
     <MESSAGE value="ответ:&#10;43744 47901" />
@@ -769,7 +768,8 @@
     <MESSAGE value="ответ: 60" />
     <MESSAGE value="ответ: cdba" />
     <MESSAGE value="ответ: w z y x" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: w z y x" />
+    <MESSAGE value="ответ: z x y w" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ: z x y w" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
