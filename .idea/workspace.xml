@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ: 133" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,6 +192,7 @@
     "Python.Task-8.executor": "Run",
     "Python.python.exe.executor": "Run",
     "Python.task - 4582.executor": "Run",
+    "Python.task-10106.executor": "Run",
     "Python.task-11-73866-ege.executor": "Run",
     "Python.task-12-21411.executor": "Run",
     "Python.task-12-9365-ege.executor": "Run",
@@ -379,22 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00170" summary="ответ: 21.9 =&gt; 22">
-      <option name="closed" value="true" />
-      <created>1747665193670</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1747665193670</updated>
-    </task>
-    <task id="LOCAL-00171" summary="ответ: 244">
-      <option name="closed" value="true" />
-      <created>1747669751960</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1747669751960</updated>
     </task>
     <task id="LOCAL-00172" summary="ответ: 20">
       <option name="closed" value="true" />
@@ -772,12 +757,26 @@
       <option name="project" value="LOCAL" />
       <updated>1749293626523</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="ответ:&#10;1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377">
+      <option name="closed" value="true" />
+      <created>1749293922988</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1749293922989</updated>
+    </task>
+    <task id="LOCAL-00220" summary="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396">
+      <option name="closed" value="true" />
+      <created>1749294207203</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1749294207203</updated>
+    </task>
+    <option name="localTasksCounter" value="221" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 127" />
-    <MESSAGE value="ответ: 33" />
     <MESSAGE value="ответ: 20" />
     <MESSAGE value="ответ: 109" />
     <MESSAGE value="ответ: 22" />
@@ -801,7 +800,9 @@
     <MESSAGE value="ответ: 1944" />
     <MESSAGE value="ответ: 54" />
     <MESSAGE value="ответ: 133" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 133" />
+    <MESSAGE value="ответ:&#10;1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377" />
+    <MESSAGE value="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
