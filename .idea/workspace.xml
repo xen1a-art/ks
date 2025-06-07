@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
+    <list default="true" id="fc397c28-b3fd-4494-aadc-f588455ec400" name="Changes" comment="ответ:180">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,6 +237,7 @@
     "Python.task-17680.executor": "Run",
     "Python.task-17872.executor": "Run",
     "Python.task-17873.executor": "Run",
+    "Python.task-17882.executor": "Run",
     "Python.task-1845.executor": "Run",
     "Python.task-1846.executor": "Run",
     "Python.task-18955.executor": "Run",
@@ -275,6 +278,7 @@
     "Python.task-9732.executor": "Run",
     "Python.task-9733.executor": "Run",
     "Python.task-9770.executor": "Run",
+    "Python.task-9790.executor": "Run",
     "Python.task-9824.executor": "Run",
     "Python.task-9835.executor": "Run",
     "Python.task-9844.executor": "Run",
@@ -298,17 +302,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/шпора/task17",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/ks/шпора/task27",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\ks\шпора\task27" />
       <recent name="C:\Users\User\PycharmProjects\ks\шпора\task17" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\26-05-25" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\19-05" />
       <recent name="C:\Users\User\PycharmProjects\ks\занятия\15-05" />
-      <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\ks\Вне занятия" />
@@ -380,14 +384,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963271667</updated>
-    </task>
-    <task id="LOCAL-00172" summary="ответ: 20">
-      <option name="closed" value="true" />
-      <created>1747698840979</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1747698840979</updated>
     </task>
     <task id="LOCAL-00173" summary="ответ: 768">
       <option name="closed" value="true" />
@@ -773,11 +769,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749294207203</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="ответ:180">
+      <option name="closed" value="true" />
+      <created>1749294406887</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1749294406887</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ответ: 20" />
     <MESSAGE value="ответ: 109" />
     <MESSAGE value="ответ: 22" />
     <MESSAGE value="ответ: xwzy" />
@@ -802,7 +805,8 @@
     <MESSAGE value="ответ: 133" />
     <MESSAGE value="ответ:&#10;1253475 619&#10;12103425 5977&#10;12593475 6219&#10;12913425 6377" />
     <MESSAGE value="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ:&#10;142157664 70236&#10;1021575544 504731&#10;1121571264 554136&#10;1221577104 603546&#10;1321572824 652951&#10;1421578664 702361&#10;1521574384 751766&#10;1621570104 801171&#10;1721575944 850581&#10;1821571664 899986&#10;1921577504 949396" />
+    <MESSAGE value="ответ:180" />
+    <option name="LAST_COMMIT_MESSAGE" value="ответ:180" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
